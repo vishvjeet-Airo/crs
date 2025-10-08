@@ -1,0 +1,319 @@
+[Sheet: RAQ HHVR]
+Row 1
+C1 = "Note to Submitter  - Non applicable or "N/A" responses or Blanks responses are allowed in this section you must explain your responses thoroughly. "
+Row 2
+A2 = "Company Name, Address and Web Address."
+D2 = "Compass, 2400 Yorkmont Road, Charlotte, NC 28217, www.compass-usa.com"
+Row 3
+A3 = "Full name and Title of person completing the form."
+D3 = "Morgan Fleck, Senior Manager BISO Team" (Options: "Yes, No, NA, Partial")
+Row 4
+A4 = "Email and phone number of person completing the form."
+D4 = "morgan.fleck@compass-usa.com      810.236.1619"
+Row 5
+A5 = "The information submitted herein is accurate and complete, and I have the authority to provide this information on behalf of the company named in these responses and by completing this form, company agrees that if there are any changes to these responses company will update HFH."
+Row 6
+A6 = "If the person attesting if different than the person completing the form, please provide full name, title, email, and phone # of person confirming this attestation:"
+Row 7
+A7 = "If you have experience any breaches or incidents in the last 5 years explain them in detail along wish the remediation actions taken."
+D7 = "No" (Options: "Yes, No, NA, Partial")
+Row 8
+A8 = "List the name, title and contact information for your Information Security and Information Privacy Officials."
+D8 = "Jon Harris, CIRO,       Fred Roth, VP, Associate General Counsel
+Crisis Hotline 1.877.710.6291"
+Row 9
+A9 = "Are internal or external key audits done at least annually that at minimum include (access - logical, access - physical, change management, system configuration, social engineering & penetration testing).  List the types of audits internal or external that have been executed in the last 2 years if any."
+Row 10
+A10 = "Has your organization undergone a SOC 2 Type 2.  If so provide a copy will need to be provided."
+D10 = "Yes"
+Row 11
+A11 = "What is the level of data your organization will have access to?
+     Sensitive: PHI, SSN, Credit Card Data, PII, Bank Account Information, etc.
+     Confidential: Audit reports, payroll data, Provider contracts, member rates, financial status information, etc.
+     Internal: Internal operating procedures, policies, training materials, project documents, etc.
+     Public: Company brochures, already released press releases, product and services brochures, etc.
+     No data shared with Third Party"
+D11 = "Please select the data classification from the left: [ie, Sensitive, Confidential, etc.]
+
+
+   Internal: Internal operating procedures, policies, training materials, project documents, etc."
+Row 12
+A12 = "How will your organization obtain the data from HFHS?  Be specific and list all network protocols and transmissions (FTP, HL7, ADT, etc…)"
+D12 = "B2B VPN, HL7 interface"
+Row 13
+A13 = "How will HFHS access the data at your organization?  Be specific and list all network protocols and transmissions (FTP, HL7, ADT, Web portal or application etc)…."
+Row 14
+A14 = "Is the application or service  HFH patient or HFH family member facing? "
+D14 = "No"
+Row 15
+A15 = "Does the application or service process, store, transmit HFHS patient information( e.g., patient or provider service portal)?"
+Row 16
+A16 = "Does the application or service share collected user data with third-party tracking companies? "
+D16 = "No"
+Row 17
+A17 = "If yes, is the consent of the user obtained and tracked?"
+Row 18
+A18 = "Can you attest that no tracking technologies (analytics, ad, user experience, performance monitoring, real-time), are presently being used and will not be implemented within any services/products/tools for HFH?"
+D18 = "Yes"
+Row 19
+A19 = "What data is collected and sent to your subcontractor? "
+D19 = "N/A, subcontracors not used"
+Row 20
+A20 = "What is the business reason for sending data to a subcontractor? "
+D20 = "N/A"
+Row 21
+A21 = "Is there a business associate agreement in place with your subcontractor? "
+D21 = "N/A"
+Row 22
+A22 = "Will you require remote access to HFHS network or data?  If so please explain why."
+Row 23
+A23 = "Have you had an internal or independent assessment to confirm your compliance with the HIPAA?  If yes enter the date of the assessment and whether you were partially, fully or not compliant."
+D23 = "Processes and systems developed in accordance with the Health Insurance Portability and Accountability Act (HIPAA)."
+Row 24
+A24 = "When providing support will you be leveraging your own or HFHS devices"
+Row 25
+A25 = "In order to provide support do you have to install a network device or tool on the HFHS network?  If so please explain why, the purpose and how the device(s) will be monitored, maintained and accessed in detail. "
+Row 26
+A26 = "Do you provide services for a Government Program Line of Business (i.e. Medicare, Medicaid, QHP, FEHB)?"
+D26 = "No"
+Row 27
+A27 = "Will you conduct financial transactions on behalf of the organization with members, providers, or hospitals?"
+D27 = "No"
+Row 29
+A29 = "Control Category"
+B29 = "Control Name"
+C29 = "Security Questions"
+D29 = "Response"
+E29 = "Comment (anything answered No, NA or Partial requires a comment)"
+Row 30
+A30 = "Access Management"
+B30 = "Account Management"
+C30 = "Do you have a process for managing accounts (termination, modification, creation)"
+D30 = "Yes" (Options: "Yes, No, NA, Partial")
+Row 31
+A31 = "Access Management"
+B31 = "Authorization"
+C31 = "Do access required authorized approval before it is granted?"
+D31 = "Yes"
+Row 32
+A32 = "Asset and Media Protection"
+B32 = "Malicious Software Protection"
+C32 = "Are devices and media required to undergo a scan to detect malicious software before being leveraged?"
+Row 33
+A33 = "Asset and Media Protection"
+B33 = "Media Protection Policy and Procedures"
+C33 = "Is there a documented, approved and communicated device and media usage policy? "
+D33 = "Yes"
+Row 34
+A34 = "Asset and Media Protection"
+B34 = "Acquisition"
+C34 = "Is there a governance process for how media and technology assets are acquired?"
+D34 = "Yes"
+Row 35
+A35 = "Asset and Media Protection"
+B35 = "Transmission Encryption"
+C35 = "Is PHI, confidential, protected and proprietary data encrypted during transmission? "
+D35 = "NA"
+E35 = "PHI not in scope for TaskUp"
+Row 36
+A36 = "Authentication Authorization"
+B36 = "Policy and Procedures"
+C36 = "Is there a documented, approved and communicated policy for Identity & Authentication Management?"
+D36 = "Yes"
+Row 37
+A37 = "Awareness and Training"
+B37 = "Program"
+C37 = "Is there a documented, approved and communicated security awareness and training program?"
+D37 = "Yes"
+Row 38
+A38 = "Awareness and Training"
+B38 = "Initial training"
+C38 = "Is security awareness and training required upon hire?"
+D38 = "Yes"
+Row 39
+A39 = "Awareness and Training"
+B39 = "Re-training"
+C39 = "Is security awareness and training required at least annually?"
+D39 = "Yes"
+Row 40
+A40 = "Awareness and Training"
+B40 = "Training Monitoring"
+C40 = "Are training and awareness activities monitored for attendance and compliance with escalation to leadership and sanctions for non compliance?"
+D40 = "Yes"
+Row 41
+A41 = "Configuration, Maintenance & Change"
+B41 = "Configuration Management Policy and
+Procedures"
+C41 = "Is there a documented, approved and communicated configuration and change management policy?"
+D41 = "Yes"
+Row 42
+A42 = "Configuration, Maintenance & Change"
+B42 = "Baseline Changes"
+C42 = "Are all changes to baseline configurations documented, reviewed, and approved prior to change?"
+Row 43
+A43 = "Configuration, Maintenance & Change"
+B43 = "Configuration documentation"
+C43 = "Are all configuration changes documented as exceptions for each system where there is a gap between the baseline and the changes?"
+Row 44
+A44 = "Configuration, Maintenance & Change"
+B44 = "Technology Certification"
+C44 = "Are changes required to undergo a security review prior to implementation?"
+Row 45
+A45 = "Configuration, Maintenance & Change"
+B45 = "Hardening Standards"
+C45 = "Are configuration baselines based on industry hardening standards so that only services, ports and processes that are necessary are enabled and others are disabled?"
+Row 46
+A46 = "Configuration, Maintenance & Change"
+B46 = "Change Management Segregation"
+C46 = "Is change management segregated to ensure only authorized individuals are able to design, approve or implement a change? "
+Row 47
+A47 = "Configuration, Maintenance & Change"
+B47 = "Post Change review"
+C47 = "Are systems reviewed post changes and configuration updates to ensure security controls are still enabled?"
+Row 48
+A48 = "Compliance"
+B48 = "PCI"
+C48 = "If you process, capture or store credit card data are you PCI compliant"
+D48 = "NA"
+E48 = "PCI not in scope for TaskUp"
+Row 49
+A49 = "Incident Management"
+B49 = "Plan"
+C49 = "Is there a documented, approved and communicated incident management plan. "
+D49 = "Yes"
+Row 50
+A50 = "Incident Management"
+B50 = "Testing"
+C50 = "Is the incident management plan tested at least annually?"
+D50 = "Yes"
+Row 51
+A51 = "Personnel Security"
+B51 = "Screening Pre-employment"
+C51 = "Has the appropriate pre-employment national criminal background screening been completed?"
+D51 = "Yes"
+Row 52
+A52 = "Personnel Security"
+B52 = "Screening Pre-employment"
+C52 = "If you have to deploy on site resources, do you agree to require that they submit to a flu shot and no smoking on HFHS premises?"
+D52 = "Yes"
+E52 = "The flu shot is required aside from an exemption being filed and approved"
+Row 53
+A53 = "Personnel Security"
+B53 = "Screening Pre-employment"
+C53 = "Will the appropriate NDAs/legal agreements be in place?"
+D53 = "Yes"
+Row 54
+A54 = "Personnel Security"
+B54 = "Screen Post-employment"
+C54 = "Is on-going employment screening (criminal, drug, OIG sanction, and reference checking) done at least every 5 years for fulltime, parttime, contingent, contractor and intern employment? "
+D54 = "No"
+Row 55
+A55 = "Personnel Security"
+B55 = "Screening Pre-employment"
+C55 = "Is pre-employment screening (criminal, drug, OIG sanction, and reference checking) done for fulltime, parttime, contingent, contractor and intern employment? "
+D55 = "Yes"
+Row 56
+A56 = "Personnel Security"
+B56 = "Sanction"
+C56 = "Is there a documented, approved and communicated sanction policy for violations of corporate policies? "
+D56 = "Yes"
+Row 57
+A57 = "Personnel Security"
+B57 = "Employee Listing"
+C57 = "Is there an employee listing audit at least annually where the full list of all employees (full time, part time, contingent, contractor etc...) is reviewed to ensure continued physical and logical access is appropriate. "
+Row 58
+A58 = "Personnel Security"
+B58 = "Off shore data"
+C58 = "Will any remote (off shore) resources have access to HFHS data?"
+D58 = "No"
+Row 59
+A59 = "Personnel Security"
+B59 = "Off shore system"
+C59 = "Will any remote (off shore) resources have access to the information systems used to process, capture, store or transmit HFHS data?"
+D59 = "No"
+Row 60
+A60 = "Environmental and Physical Security"
+B60 = "Policy"
+C60 = "Does your company have a documented, approved and communicated Physical Security policy?"
+D60 = "Yes"
+Row 61
+A61 = "Environmental and Physical Security"
+B61 = "Access Changes"
+C61 = "Are the access codes, keys or locks changed when compromised? "
+D61 = "Yes"
+Row 62
+A62 = "Environmental and Physical Security"
+B62 = "Investigations"
+C62 = "Are the results of the review and investigation available for the incident response team?"
+D62 = "Yes"
+Row 63
+A63 = "Security Policy"
+B63 = "Policy"
+C63 = "Is there a documented, approved and communication Information Security Policy that governs the Information Security Program?"
+D63 = "Yes"
+Row 64
+A64 = "Security Policy"
+B64 = "Configuration & Change Mgmt"
+C64 = "Does the Information Security Program address - Configuration and Change Security"
+D64 = "Yes"
+Row 65
+A65 = "Security Policy"
+B65 = "Malicious Software Protection"
+C65 = "Does the Information Security Program address - Malicious software protection"
+D65 = "Yes"
+Row 66
+A66 = "Security Policy"
+B66 = "Device & Media Protection"
+C66 = "Does the Information Security Program address - Device and Media Protection"
+D66 = "Yes"
+Row 67
+A67 = "Security Policy"
+B67 = "Network Security"
+C67 = "Does the Information Security Program address - Network Security"
+D67 = "Yes"
+Row 68
+A68 = "Security Policy"
+B68 = "Vulnerability & Patch Management"
+C68 = "Does the Information Security Program address - Vulnerability and Patch Management"
+D68 = "Yes"
+Row 69
+A69 = "Third Party Risk"
+B69 = "Pre-engagement review"
+C69 = "Is there a process to review third parties initially before engagement"
+D69 = "Yes"
+Row 70
+A70 = "Third Party Risk"
+B70 = "OIG checking"
+C70 = "Are third party resources OIG sanction checked prior to allowing them to support your organization"
+Row 71
+A71 = "Third Party Risk"
+B71 = "Background"
+C71 = "Are third party resources background (criminal, reference, education) checked prior to allowing them to support your organization"
+D71 = "Yes"
+Row 72
+A72 = "Third Party Risk"
+B72 = "Screening"
+C72 = "Are third party resources drug screened prior to allowing them to support your organization"
+D72 = "Yes"
+Row 73
+A73 = "Third Party Risk"
+B73 = "Training and Awareness"
+C73 = "Are third party resources required to have initial and on-going security awareness and training?"
+D73 = "Yes"
+Row 74
+A74 = "Third Party Risk"
+B74 = "Legal Agreements"
+C74 = "Do contracts include the appropriate security controls language like right to audit clauses, expected security controls, acceptable use, destruction and return of data and breach reporting requirements?"
+D74 = "Yes"
+Row 75
+A75 = "Third Party Risk"
+B75 = "Privacy"
+C75 = "Do you you use/pay [contract] with third parties to perform tasks on your behalf that include creating, receiving, transmitting or maintaining PHI?"
+D75 = "NA"
+E75 = "PHI not in scope for TaskUp"
+Row 76
+A76 = "Third Party Risk"
+B76 = "Privacy"
+C76 = "Do you enter into a Business Associate Agreement with your subcontractors that create, receive, maintain or transmit PHI on your behalf?"
+D76 = "NA" (Options: "Yes, No, NA, Partial")
+E76 = "PHI not in scope for TaskUp"

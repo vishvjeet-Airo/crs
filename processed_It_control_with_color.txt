@@ -1,0 +1,286 @@
+[Sheet: .1 Obtain understanding]
+Row 3
+B3 = "Completed by:"
+C3 = (empty) (color:Link Water)
+D3 = "Compass Group / Bon Appetit"
+Row 4
+B4 = "Updated by:"
+C4 = (empty) (color:Link Water)
+D4 = (empty) (color:Yellow)
+Row 5
+B5 = "Date:"
+C5 = (empty) (color:Link Water)
+D5 = "2024-10-30 00:00:00"
+Row 7
+A7 = "PART I - Applications"
+Row 9
+B9 = "A)"
+C9 = "In the table below, please list the significant computer applications and the transaction classes impacted, identify the source of the software used (i.e., service organization, internally developed, or externally developed), and indicate whether the company has access to vendor source code. For vendor software packages, provide information such as the vendor or brand name, version, and significant customized features or modifications. Consider all facets of the entity’s financial information and financial drivers (i.e., all financial systems, payroll provider systems, operational systems that feed the financial system, etc.). "
+Row 11
+C11 = "Application"
+E11 = "Transaction Class Impacted"
+F11 = "Service Organization Name 
+(if applicable)"
+G11 = "Internally Developed
+ (Y/N)"
+H11 = "Vendor/Brand
+Name and Version"
+I11 = "Custom Features
+(if any)"
+J11 = "Have Access to Source Code?"
+K11 = "Entities that use the application?"
+Row 12
+C12 = "Agilysys (POS and Mobile Ordering (URL))"
+E12 = "Point of Sale restaurant transaction and payment"
+F12 = "Agilysys"
+G12 = "N"
+H12 = "Agilysys"
+I12 = "No"
+J12 = "No"
+K12 = "Bon Appetit"
+Row 13
+C13 = "Dining web site (squarespace) "
+E13 = "No Transactions"
+F13 = "Bon Appetit"
+G13 = "Y"
+H13 = "Bon Appetit"
+I13 = "No"
+J13 = "Yes"
+K13 = "Bon Appetit / Restaurant Customers"
+Row 14
+C14 = "Triple Seat"
+E14 = "Event management, no payment"
+F14 = "TripleSeat"
+G14 = "N"
+H14 = "TripleSeat"
+I14 = "No"
+J14 = "No"
+K14 = "Bon Appetit"
+Row 15
+C15 = "Authorize.Net for credit card payment"
+E15 = "Event credit card payment"
+F15 = "Authorize.Net"
+G15 = "N"
+H15 = "Authorize.Net"
+I15 = "No"
+J15 = "No"
+K15 = "Bon Appetit"
+Row 16
+C16 = (empty) (color:Magic Mint)
+E16 = (empty) (color:Magic Mint)
+F16 = (empty) (color:Magic Mint)
+G16 = (empty) (color:Magic Mint)
+H16 = (empty) (color:Magic Mint)
+I16 = (empty) (color:Magic Mint)
+J16 = (empty) (color:Magic Mint)
+K16 = (empty) (color:Magic Mint)
+Row 17
+C17 = (empty) (color:Magic Mint)
+E17 = (empty) (color:Magic Mint)
+F17 = (empty) (color:Magic Mint)
+G17 = (empty) (color:Magic Mint)
+H17 = (empty) (color:Magic Mint)
+I17 = (empty) (color:Magic Mint)
+J17 = (empty) (color:Magic Mint)
+K17 = (empty) (color:Magic Mint)
+Row 19
+B19 = "B)"
+C19 = "How is depreciation calculated and recorded for fixed assets? How are cash accounts reconciled? Are these processes performed through the use of automated systems/accounting software, or manual calculation using excel or other methods?"
+Row 21
+C21 = "N/A - In providing food service to our clients, Compass Group North America outsources all software used in providing payment for food services (cafe, mobile ordering, catering, etc). Our point-of-sale providers undergo annual PCI DSS validation by an approved independent third party. Included within PCI are specific questions regarding secure software development practices, which include data integrity and data validation. Compass Group North America does not directly provide software to facilitate payment for food services."
+Row 23
+B23 = "C)"
+C23 = "If a service organization is used in a significant transaction class, describe how the service organization is used, along with your conclusion about whether it is necessary to obtain an understanding of the nature and significance of the services provided by the service organization and their effect on the user entity's system of internal control. If it is necessary, describe the sources of information used and procedures performed to obtain your understanding."
+Row 25
+C25 = "In providing food service to our clients, Compass Group North America outsources all software used in providing payment for food services (cafe, mobile ordering, catering, etc). Our point-of-sale providers undergo annual PCI DSS validation by an approved independent third party. Included within PCI are specific questions regarding secure software development practices, which include data integrity and data validation. Compass Group North America does not directly provide software to facilitate payment for food services."
+Row 27
+B27 = "D)"
+C27 = "Identify significant entity-developed spreadsheets that are used for accounting functions or transaction processing. Document whether those spreadsheets are password protected and if there are logical controls built into the spreadsheets to protect their integrity (e.g., are input fields a different color so data is not entered into the wrong cells, and are cells with formulas locked so they cannot be changed without approval?)"
+Row 29
+C29 = "N/A - No entity developed spreadsheets used.  "
+Row 31
+B31 = "E)"
+C31 = "Describe any other information relevant to understanding the entity's IT environment (for example, the computer hardware and configuration used for the accounting system such as networked personal computers with a dedicated server, any significant master files that are used to store data relevant to the audit or the entity's use of e-commerce or other sophisticated processing applications). "
+Row 33
+C33 = "Please see attached data security PDF for details."
+Row 35
+B35 = "F)"
+C35 = "List all individuals that have access to post to the general ledger, and whether or not each individual can post nonstandard journal entries.  Describe how the entity ensures that its IT systems (including any significant entity-developed spreadsheets) are reliable and its data is secure."
+Row 37
+C37 = "N/A"
+Row 39
+C39 = "see next tab"
+[Sheet: .2 D&I - identified IT controls]
+Row 2
+A2 = "PART II - IT General Controls"
+Row 3
+H3 = "TO BE COMPLETED BY"
+Row 4
+C4 = "PART II - IT General Controls"
+H4 = "CLIENT"
+Row 5
+C5 = "(Suggested Control Activities can be found in form CX-5.13)"
+H5 = "Does the Company have such controls in place?
+(Yes and Brief Description or No)"
+I5 = "Description of control"
+Row 6
+C6 = "Objective I: The entity has an IT strategic planning and risk management process in place to support its financial reporting requirements."
+H6 = "Yes"
+I6 = (empty) (color:Magic Mint)
+K6 = "Agilysys (POS and Mobile Ordering (URL))"
+Row 7
+C7 = "Suggested Control Activities:"
+H7 = (empty) (color:Peach Orange)
+I7 = (empty) (color:Peach Orange)
+K7 = "Dining web site (squarespace)"
+Row 8
+C8 = "A management steering committee is responsible for reviewing and approving IT plans and priorities"
+H8 = "Yes"
+K8 = "Triple Seat - Auth.Net (via URL Compass MID)"
+Row 9
+C9 = "IT management conducts regular risk assessments and addresses noted risks appropriately."
+H9 = "Yes"
+K9 = "No reservation system"
+Row 10
+C10 = "All outside service providers used by the entity are evaluated to determine those who provide material financial services that may impact controls."
+H10 = "Yes"
+Row 11
+C11 = "Objective II: The entity maintains reliable systems that include appropriate data backup and recovery processes."
+H11 = "Yes"
+I11 = (empty) (color:Link Water)
+Row 12
+C12 = "Suggested Control Activities:"
+H12 = (empty) (color:Peach Orange)
+I12 = (empty) (color:Peach Orange)
+Row 13
+C13 = "A backup and data retention policy/schedule exists, specifying how often backups are to be performed, how long they are to be retained, and where the backup media is to be stored."
+H13 = "Yes"
+Row 14
+C14 = "Application data backups are performed to minimize the risk of lost or corrupted data. Backup tapes or other media are secure (accessible only by authorized personnel)."
+H14 = "Yes"
+Row 15
+C15 = "Application data recovery procedures are tested at least once annually to ensure data integrity and recovery."
+H15 = "Yes"
+Row 16
+C16 = "File server backups are performed to minimize the risk of lost or corrupted data. Backup tapes or other media are secure (accessible only by authorized personnel)."
+H16 = "Yes"
+Row 17
+C17 = "File server recovery procedures are tested at least once annually to ensure data integrity and recovery."
+H17 = "Yes"
+Row 18
+C18 = "Batch processing is controlled and monitored to ensure proper completion."
+H18 = "Yes"
+Row 19
+C19 = "Access to scheduled job content and to the scheduler is properly controlled."
+H19 = "Yes"
+Row 20
+C20 = "Interfaces between systems include appropriate controls to ensure the complete and accurate transfer of data."
+H20 = "Yes"
+Row 21
+C21 = "Appropriate environmental controls exist to ensure the security and reliability of equipment in data centers and other technical facilities. Such controls include fire/smoke detection and fire suppression, temperature and humidity controls, and an uninterruptible power supply and/or backup generators where required."
+H21 = "Yes"
+Row 22
+C22 = "IT management has defined and implemented a problem management and change management tracking system to ensure that key compliance-related events and operational events that are not part of standard operation (incidents, problems, and errors) are recorded, analyzed, and resolved in a timely manner."
+H22 = "Yes"
+Row 23
+C23 = "Objective III: Physical security and access to programs and data are appropriately controlled to prevent unauthorized use, disclosure, modification, damage, or loss of data."
+H23 = "Yes"
+I23 = (empty) (color:Magic Mint)
+Row 24
+C24 = "Suggested Control Activities:"
+H24 = (empty) (color:Peach Orange)
+I24 = (empty) (color:Peach Orange)
+Row 25
+C25 = "An information security policy exists that defines information security objectives. This policy is supported by documents standards and procedures where necessary."
+H25 = "Yes"
+Row 26
+C26 = "Procedures exist and are followed to ensure timely action relating to requesting, establishing, issuing, suspending, modifying, and closing user accounts."
+H26 = "Yes"
+Row 27
+C27 = "New user accounts in the network, application, and database environments are set up in response to properly authorized requests from management."
+H27 = "Yes"
+Row 28
+C28 = "When user access rights are modified (due to job transfers or other reasons), the access rights of these users are reviewed in order to remove access rights that are no longer needed. Additional access rights are granted in response to properly authorized requests from management."
+H28 = "Yes"
+Row 29
+C29 = "User access rights are removed or suspended in a timely manner when employees are terminated. Standards exist to define timeliness requirements for various situations (i.e., voluntary or involuntary termination)."
+H29 = "Yes"
+Row 30
+C30 = "User access rights (network, application, and database) are granted on a need-to-know, need-to-do basis."
+H30 = "Yes"
+Row 31
+C31 = "User access rights (network, application, and database) support necessary segregation of duties (as defined by the financial areas’ reliance on automated controls)."
+H31 = "Yes"
+Row 32
+C32 = "Appropriate IT segregation of duties controls are in place:
+• Personnel in IT do not have responsibility for transaction and accounting duties normally performed by end users in the functional area.
+• IT personnel administering security do not have responsibilities for programming, database management, or computer operations.
+• Programmers/developers do not have access to modify production software code.
+"
+H32 = "Yes"
+Row 33
+C33 = "Application data owners perform a periodic review of user access rights for all in-scope applications (and network access when required)."
+H33 = "Yes"
+Row 34
+C34 = "Database access, including the ability to read, modify, or delete key financial data either directly or via ODBC, is appropriately restricted."
+H34 = "Yes"
+Row 35
+C35 = "Procedures exist and are followed to maintain the effectiveness of authentication and access mechanisms (e.g., password length, password history, password expiration, and lockout for failed attempts)."
+H35 = "Yes"
+Row 36
+C36 = "Controls are in place to ensure that all users are identified uniquely:
+• No shared IDs are used except for limited, read-only access.
+• Access rights of any generic IDs are appropriately limited.
+"
+H36 = "Yes"
+Row 37
+C37 = "Physical access to computer room, file/communication servers, off-line data storage, and other sensitive storage is appropriately restricted to authorized personnel. Access is reviewed for appropriateness on a periodic basis."
+H37 = "Yes"
+Row 38
+C38 = "Controls over perimeter and network security are in place. Such controls may include firewalls, routers, terminal service devices, wireless security, intrusion detection, and vulnerability assessments where appropriate."
+H38 = "Yes"
+Row 39
+C39 = "Software users are prohibited from having access to source code, the compiler, and programming documentation."
+H39 = "Yes"
+Row 40
+C40 = "Objective IV: Program changes and systems acquisition and development are appropriately managed to ensure that the application software adequately supports financial reporting objectives."
+H40 = "Yes"
+I40 = (empty) (color:Link Water)
+Row 41
+B41 = "I)"
+C41 = "Suggested Control Activities:"
+H41 = (empty) (color:Peach Orange)
+I41 = (empty) (color:Peach Orange)
+Row 42
+C42 = "Formalized change management policies and procedures exist and are updated as required."
+H42 = "Yes"
+Row 43
+C43 = "Application, database, and operating system changes are tracked in a centralized change tracking database or system."
+H43 = "Yes"
+Row 44
+C44 = "User acceptance is documented prior to migrating application and database changes to production, and operating system changes are approved by IT management."
+H44 = "Yes"
+Row 45
+C45 = "For applications where the entity has source code, application source code version control is maintained via change control software or other means."
+H45 = "Yes"
+Row 46
+C46 = "Emergency changes at the application, database, and operating system levels are documented and subject to formal change controls, including review after the fact and prompt notification of data owners for approval where appropriate."
+H46 = "Yes"
+Row 47
+C47 = "For applications where the entity has source code, controls are in place to allow only authorized individuals to migrate application programs to production."
+H47 = "Yes"
+Row 48
+C48 = "A formal change management policy is in effect that documents the minimum requirements for change control and system development on an entity-wide basis. The policy addresses requirements to consider system security, availability, and processing integrity where appropriate, including in application controls, in the development of new systems, and in major changes to existing systems."
+H48 = "Yes"
+Row 49
+C49 = "Application controls are formally considered and documented during the implementation of new information systems."
+H49 = "Yes"
+Row 50
+C50 = "Subject matter experts (as indicated by the application data owner) are involved in deriving application system requirements."
+H50 = "Yes"
+Row 51
+C51 = "A test plan is developed and followed for all major implementation projects, including unit, system, integration, interface, and data conversion testing as appropriate."
+H51 = "Yes"
+Row 52
+C52 = "User acceptance testing is performed on all user-requested projects. Tests are completed and documented prior to the move into production."
+H52 = "Yes"

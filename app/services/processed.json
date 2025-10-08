@@ -1,0 +1,1432 @@
+[
+  {
+    "sheet": "RAQ HHVR",
+    "row": 1,
+    "cells": {
+      "C1": {
+        "value": "Note to Submitter  - Non applicable or \"N/A\" responses or Blanks responses are allowed in this section you must explain your responses thoroughly. ",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 2,
+    "cells": {
+      "A2": {
+        "value": "Company Name, Address and Web Address.",
+        "dropdown_options": null
+      },
+      "D2": {
+        "value": "Compass, 2400 Yorkmont Road, Charlotte, NC 28217, www.compass-usa.com",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 3,
+    "cells": {
+      "A3": {
+        "value": "Full name and Title of person completing the form.",
+        "dropdown_options": null
+      },
+      "D3": {
+        "value": "Morgan Fleck, Senior Manager BISO Team",
+        "dropdown_options": [
+          "\"Yes, No, NA, Partial\""
+        ]
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 4,
+    "cells": {
+      "A4": {
+        "value": "Email and phone number of person completing the form.",
+        "dropdown_options": null
+      },
+      "D4": {
+        "value": "morgan.fleck@compass-usa.com      810.236.1619",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 5,
+    "cells": {
+      "A5": {
+        "value": "The information submitted herein is accurate and complete, and I have the authority to provide this information on behalf of the company named in these responses and by completing this form, company agrees that if there are any changes to these responses company will update HFH.",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 6,
+    "cells": {
+      "A6": {
+        "value": "If the person attesting if different than the person completing the form, please provide full name, title, email, and phone # of person confirming this attestation:",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 7,
+    "cells": {
+      "A7": {
+        "value": "If you have experience any breaches or incidents in the last 5 years explain them in detail along wish the remediation actions taken.",
+        "dropdown_options": null
+      },
+      "D7": {
+        "value": "No",
+        "dropdown_options": [
+          "\"Yes, No, NA, Partial\""
+        ]
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 8,
+    "cells": {
+      "A8": {
+        "value": "List the name, title and contact information for your Information Security and Information Privacy Officials.",
+        "dropdown_options": null
+      },
+      "D8": {
+        "value": "Jon Harris, CIRO,       Fred Roth, VP, Associate General Counsel\nCrisis Hotline 1.877.710.6291",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 9,
+    "cells": {
+      "A9": {
+        "value": "Are internal or external key audits done at least annually that at minimum include (access - logical, access - physical, change management, system configuration, social engineering & penetration testing).  List the types of audits internal or external that have been executed in the last 2 years if any.",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 10,
+    "cells": {
+      "A10": {
+        "value": "Has your organization undergone a SOC 2 Type 2.  If so provide a copy will need to be provided.",
+        "dropdown_options": null
+      },
+      "D10": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 11,
+    "cells": {
+      "A11": {
+        "value": "What is the level of data your organization will have access to?\n     Sensitive: PHI, SSN, Credit Card Data, PII, Bank Account Information, etc.\n     Confidential: Audit reports, payroll data, Provider contracts, member rates, financial status information, etc.\n     Internal: Internal operating procedures, policies, training materials, project documents, etc.\n     Public: Company brochures, already released press releases, product and services brochures, etc.\n     No data shared with Third Party",
+        "dropdown_options": null
+      },
+      "D11": {
+        "value": "Please select the data classification from the left: [ie, Sensitive, Confidential, etc.]\n\n\n   Internal: Internal operating procedures, policies, training materials, project documents, etc.",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 12,
+    "cells": {
+      "A12": {
+        "value": "How will your organization obtain the data from HFHS?  Be specific and list all network protocols and transmissions (FTP, HL7, ADT, etc…)",
+        "dropdown_options": null
+      },
+      "D12": {
+        "value": "B2B VPN, HL7 interface",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 13,
+    "cells": {
+      "A13": {
+        "value": "How will HFHS access the data at your organization?  Be specific and list all network protocols and transmissions (FTP, HL7, ADT, Web portal or application etc)….",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 14,
+    "cells": {
+      "A14": {
+        "value": "Is the application or service  HFH patient or HFH family member facing? ",
+        "dropdown_options": null
+      },
+      "D14": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 15,
+    "cells": {
+      "A15": {
+        "value": "Does the application or service process, store, transmit HFHS patient information( e.g., patient or provider service portal)?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 16,
+    "cells": {
+      "A16": {
+        "value": "Does the application or service share collected user data with third-party tracking companies? ",
+        "dropdown_options": null
+      },
+      "D16": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 17,
+    "cells": {
+      "A17": {
+        "value": "If yes, is the consent of the user obtained and tracked?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 18,
+    "cells": {
+      "A18": {
+        "value": "Can you attest that no tracking technologies (analytics, ad, user experience, performance monitoring, real-time), are presently being used and will not be implemented within any services/products/tools for HFH?",
+        "dropdown_options": null
+      },
+      "D18": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 19,
+    "cells": {
+      "A19": {
+        "value": "What data is collected and sent to your subcontractor? ",
+        "dropdown_options": null
+      },
+      "D19": {
+        "value": "N/A, subcontracors not used",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 20,
+    "cells": {
+      "A20": {
+        "value": "What is the business reason for sending data to a subcontractor? ",
+        "dropdown_options": null
+      },
+      "D20": {
+        "value": "N/A",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 21,
+    "cells": {
+      "A21": {
+        "value": "Is there a business associate agreement in place with your subcontractor? ",
+        "dropdown_options": null
+      },
+      "D21": {
+        "value": "N/A",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 22,
+    "cells": {
+      "A22": {
+        "value": "Will you require remote access to HFHS network or data?  If so please explain why.",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 23,
+    "cells": {
+      "A23": {
+        "value": "Have you had an internal or independent assessment to confirm your compliance with the HIPAA?  If yes enter the date of the assessment and whether you were partially, fully or not compliant.",
+        "dropdown_options": null
+      },
+      "D23": {
+        "value": "Processes and systems developed in accordance with the Health Insurance Portability and Accountability Act (HIPAA).",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 24,
+    "cells": {
+      "A24": {
+        "value": "When providing support will you be leveraging your own or HFHS devices",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 25,
+    "cells": {
+      "A25": {
+        "value": "In order to provide support do you have to install a network device or tool on the HFHS network?  If so please explain why, the purpose and how the device(s) will be monitored, maintained and accessed in detail. ",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 26,
+    "cells": {
+      "A26": {
+        "value": "Do you provide services for a Government Program Line of Business (i.e. Medicare, Medicaid, QHP, FEHB)?",
+        "dropdown_options": null
+      },
+      "D26": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 27,
+    "cells": {
+      "A27": {
+        "value": "Will you conduct financial transactions on behalf of the organization with members, providers, or hospitals?",
+        "dropdown_options": null
+      },
+      "D27": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 29,
+    "cells": {
+      "A29": {
+        "value": "Control Category",
+        "dropdown_options": null
+      },
+      "B29": {
+        "value": "Control Name",
+        "dropdown_options": null
+      },
+      "C29": {
+        "value": "Security Questions",
+        "dropdown_options": null
+      },
+      "D29": {
+        "value": "Response",
+        "dropdown_options": null
+      },
+      "E29": {
+        "value": "Comment (anything answered No, NA or Partial requires a comment)",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 30,
+    "cells": {
+      "A30": {
+        "value": "Access Management",
+        "dropdown_options": null
+      },
+      "B30": {
+        "value": "Account Management",
+        "dropdown_options": null
+      },
+      "C30": {
+        "value": "Do you have a process for managing accounts (termination, modification, creation)",
+        "dropdown_options": null
+      },
+      "D30": {
+        "value": "Yes",
+        "dropdown_options": [
+          "\"Yes, No, NA, Partial\""
+        ]
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 31,
+    "cells": {
+      "A31": {
+        "value": "Access Management",
+        "dropdown_options": null
+      },
+      "B31": {
+        "value": "Authorization",
+        "dropdown_options": null
+      },
+      "C31": {
+        "value": "Do access required authorized approval before it is granted?",
+        "dropdown_options": null
+      },
+      "D31": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 32,
+    "cells": {
+      "A32": {
+        "value": "Asset and Media Protection",
+        "dropdown_options": null
+      },
+      "B32": {
+        "value": "Malicious Software Protection",
+        "dropdown_options": null
+      },
+      "C32": {
+        "value": "Are devices and media required to undergo a scan to detect malicious software before being leveraged?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 33,
+    "cells": {
+      "A33": {
+        "value": "Asset and Media Protection",
+        "dropdown_options": null
+      },
+      "B33": {
+        "value": "Media Protection Policy and Procedures",
+        "dropdown_options": null
+      },
+      "C33": {
+        "value": "Is there a documented, approved and communicated device and media usage policy? ",
+        "dropdown_options": null
+      },
+      "D33": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 34,
+    "cells": {
+      "A34": {
+        "value": "Asset and Media Protection",
+        "dropdown_options": null
+      },
+      "B34": {
+        "value": "Acquisition",
+        "dropdown_options": null
+      },
+      "C34": {
+        "value": "Is there a governance process for how media and technology assets are acquired?",
+        "dropdown_options": null
+      },
+      "D34": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 35,
+    "cells": {
+      "A35": {
+        "value": "Asset and Media Protection",
+        "dropdown_options": null
+      },
+      "B35": {
+        "value": "Transmission Encryption",
+        "dropdown_options": null
+      },
+      "C35": {
+        "value": "Is PHI, confidential, protected and proprietary data encrypted during transmission? ",
+        "dropdown_options": null
+      },
+      "D35": {
+        "value": "NA",
+        "dropdown_options": null
+      },
+      "E35": {
+        "value": "PHI not in scope for TaskUp",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 36,
+    "cells": {
+      "A36": {
+        "value": "Authentication Authorization",
+        "dropdown_options": null
+      },
+      "B36": {
+        "value": "Policy and Procedures",
+        "dropdown_options": null
+      },
+      "C36": {
+        "value": "Is there a documented, approved and communicated policy for Identity & Authentication Management?",
+        "dropdown_options": null
+      },
+      "D36": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 37,
+    "cells": {
+      "A37": {
+        "value": "Awareness and Training",
+        "dropdown_options": null
+      },
+      "B37": {
+        "value": "Program",
+        "dropdown_options": null
+      },
+      "C37": {
+        "value": "Is there a documented, approved and communicated security awareness and training program?",
+        "dropdown_options": null
+      },
+      "D37": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 38,
+    "cells": {
+      "A38": {
+        "value": "Awareness and Training",
+        "dropdown_options": null
+      },
+      "B38": {
+        "value": "Initial training",
+        "dropdown_options": null
+      },
+      "C38": {
+        "value": "Is security awareness and training required upon hire?",
+        "dropdown_options": null
+      },
+      "D38": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 39,
+    "cells": {
+      "A39": {
+        "value": "Awareness and Training",
+        "dropdown_options": null
+      },
+      "B39": {
+        "value": "Re-training",
+        "dropdown_options": null
+      },
+      "C39": {
+        "value": "Is security awareness and training required at least annually?",
+        "dropdown_options": null
+      },
+      "D39": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 40,
+    "cells": {
+      "A40": {
+        "value": "Awareness and Training",
+        "dropdown_options": null
+      },
+      "B40": {
+        "value": "Training Monitoring",
+        "dropdown_options": null
+      },
+      "C40": {
+        "value": "Are training and awareness activities monitored for attendance and compliance with escalation to leadership and sanctions for non compliance?",
+        "dropdown_options": null
+      },
+      "D40": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 41,
+    "cells": {
+      "A41": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B41": {
+        "value": "Configuration Management Policy and\nProcedures",
+        "dropdown_options": null
+      },
+      "C41": {
+        "value": "Is there a documented, approved and communicated configuration and change management policy?",
+        "dropdown_options": null
+      },
+      "D41": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 42,
+    "cells": {
+      "A42": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B42": {
+        "value": "Baseline Changes",
+        "dropdown_options": null
+      },
+      "C42": {
+        "value": "Are all changes to baseline configurations documented, reviewed, and approved prior to change?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 43,
+    "cells": {
+      "A43": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B43": {
+        "value": "Configuration documentation",
+        "dropdown_options": null
+      },
+      "C43": {
+        "value": "Are all configuration changes documented as exceptions for each system where there is a gap between the baseline and the changes?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 44,
+    "cells": {
+      "A44": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B44": {
+        "value": "Technology Certification",
+        "dropdown_options": null
+      },
+      "C44": {
+        "value": "Are changes required to undergo a security review prior to implementation?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 45,
+    "cells": {
+      "A45": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B45": {
+        "value": "Hardening Standards",
+        "dropdown_options": null
+      },
+      "C45": {
+        "value": "Are configuration baselines based on industry hardening standards so that only services, ports and processes that are necessary are enabled and others are disabled?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 46,
+    "cells": {
+      "A46": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B46": {
+        "value": "Change Management Segregation",
+        "dropdown_options": null
+      },
+      "C46": {
+        "value": "Is change management segregated to ensure only authorized individuals are able to design, approve or implement a change? ",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 47,
+    "cells": {
+      "A47": {
+        "value": "Configuration, Maintenance & Change",
+        "dropdown_options": null
+      },
+      "B47": {
+        "value": "Post Change review",
+        "dropdown_options": null
+      },
+      "C47": {
+        "value": "Are systems reviewed post changes and configuration updates to ensure security controls are still enabled?",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 48,
+    "cells": {
+      "A48": {
+        "value": "Compliance",
+        "dropdown_options": null
+      },
+      "B48": {
+        "value": "PCI",
+        "dropdown_options": null
+      },
+      "C48": {
+        "value": "If you process, capture or store credit card data are you PCI compliant",
+        "dropdown_options": null
+      },
+      "D48": {
+        "value": "NA",
+        "dropdown_options": null
+      },
+      "E48": {
+        "value": "PCI not in scope for TaskUp",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 49,
+    "cells": {
+      "A49": {
+        "value": "Incident Management",
+        "dropdown_options": null
+      },
+      "B49": {
+        "value": "Plan",
+        "dropdown_options": null
+      },
+      "C49": {
+        "value": "Is there a documented, approved and communicated incident management plan. ",
+        "dropdown_options": null
+      },
+      "D49": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 50,
+    "cells": {
+      "A50": {
+        "value": "Incident Management",
+        "dropdown_options": null
+      },
+      "B50": {
+        "value": "Testing",
+        "dropdown_options": null
+      },
+      "C50": {
+        "value": "Is the incident management plan tested at least annually?",
+        "dropdown_options": null
+      },
+      "D50": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 51,
+    "cells": {
+      "A51": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B51": {
+        "value": "Screening Pre-employment",
+        "dropdown_options": null
+      },
+      "C51": {
+        "value": "Has the appropriate pre-employment national criminal background screening been completed?",
+        "dropdown_options": null
+      },
+      "D51": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 52,
+    "cells": {
+      "A52": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B52": {
+        "value": "Screening Pre-employment",
+        "dropdown_options": null
+      },
+      "C52": {
+        "value": "If you have to deploy on site resources, do you agree to require that they submit to a flu shot and no smoking on HFHS premises?",
+        "dropdown_options": null
+      },
+      "D52": {
+        "value": "Yes",
+        "dropdown_options": null
+      },
+      "E52": {
+        "value": "The flu shot is required aside from an exemption being filed and approved",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 53,
+    "cells": {
+      "A53": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B53": {
+        "value": "Screening Pre-employment",
+        "dropdown_options": null
+      },
+      "C53": {
+        "value": "Will the appropriate NDAs/legal agreements be in place?",
+        "dropdown_options": null
+      },
+      "D53": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 54,
+    "cells": {
+      "A54": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B54": {
+        "value": "Screen Post-employment",
+        "dropdown_options": null
+      },
+      "C54": {
+        "value": "Is on-going employment screening (criminal, drug, OIG sanction, and reference checking) done at least every 5 years for fulltime, parttime, contingent, contractor and intern employment? ",
+        "dropdown_options": null
+      },
+      "D54": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 55,
+    "cells": {
+      "A55": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B55": {
+        "value": "Screening Pre-employment",
+        "dropdown_options": null
+      },
+      "C55": {
+        "value": "Is pre-employment screening (criminal, drug, OIG sanction, and reference checking) done for fulltime, parttime, contingent, contractor and intern employment? ",
+        "dropdown_options": null
+      },
+      "D55": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 56,
+    "cells": {
+      "A56": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B56": {
+        "value": "Sanction",
+        "dropdown_options": null
+      },
+      "C56": {
+        "value": "Is there a documented, approved and communicated sanction policy for violations of corporate policies? ",
+        "dropdown_options": null
+      },
+      "D56": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 57,
+    "cells": {
+      "A57": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B57": {
+        "value": "Employee Listing",
+        "dropdown_options": null
+      },
+      "C57": {
+        "value": "Is there an employee listing audit at least annually where the full list of all employees (full time, part time, contingent, contractor etc...) is reviewed to ensure continued physical and logical access is appropriate. ",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 58,
+    "cells": {
+      "A58": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B58": {
+        "value": "Off shore data",
+        "dropdown_options": null
+      },
+      "C58": {
+        "value": "Will any remote (off shore) resources have access to HFHS data?",
+        "dropdown_options": null
+      },
+      "D58": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 59,
+    "cells": {
+      "A59": {
+        "value": "Personnel Security",
+        "dropdown_options": null
+      },
+      "B59": {
+        "value": "Off shore system",
+        "dropdown_options": null
+      },
+      "C59": {
+        "value": "Will any remote (off shore) resources have access to the information systems used to process, capture, store or transmit HFHS data?",
+        "dropdown_options": null
+      },
+      "D59": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 60,
+    "cells": {
+      "A60": {
+        "value": "Environmental and Physical Security",
+        "dropdown_options": null
+      },
+      "B60": {
+        "value": "Policy",
+        "dropdown_options": null
+      },
+      "C60": {
+        "value": "Does your company have a documented, approved and communicated Physical Security policy?",
+        "dropdown_options": null
+      },
+      "D60": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 61,
+    "cells": {
+      "A61": {
+        "value": "Environmental and Physical Security",
+        "dropdown_options": null
+      },
+      "B61": {
+        "value": "Access Changes",
+        "dropdown_options": null
+      },
+      "C61": {
+        "value": "Are the access codes, keys or locks changed when compromised? ",
+        "dropdown_options": null
+      },
+      "D61": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 62,
+    "cells": {
+      "A62": {
+        "value": "Environmental and Physical Security",
+        "dropdown_options": null
+      },
+      "B62": {
+        "value": "Investigations",
+        "dropdown_options": null
+      },
+      "C62": {
+        "value": "Are the results of the review and investigation available for the incident response team?",
+        "dropdown_options": null
+      },
+      "D62": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 63,
+    "cells": {
+      "A63": {
+        "value": "Security Policy",
+        "dropdown_options": null
+      },
+      "B63": {
+        "value": "Policy",
+        "dropdown_options": null
+      },
+      "C63": {
+        "value": "Is there a documented, approved and communication Information Security Policy that governs the Information Security Program?",
+        "dropdown_options": null
+      },
+      "D63": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 64,
+    "cells": {
+      "A64": {
+        "value": "Security Policy",
+        "dropdown_options": null
+      },
+      "B64": {
+        "value": "Configuration & Change Mgmt",
+        "dropdown_options": null
+      },
+      "C64": {
+        "value": "Does the Information Security Program address - Configuration and Change Security",
+        "dropdown_options": null
+      },
+      "D64": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 65,
+    "cells": {
+      "A65": {
+        "value": "Security Policy",
+        "dropdown_options": null
+      },
+      "B65": {
+        "value": "Malicious Software Protection",
+        "dropdown_options": null
+      },
+      "C65": {
+        "value": "Does the Information Security Program address - Malicious software protection",
+        "dropdown_options": null
+      },
+      "D65": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 66,
+    "cells": {
+      "A66": {
+        "value": "Security Policy",
+        "dropdown_options": null
+      },
+      "B66": {
+        "value": "Device & Media Protection",
+        "dropdown_options": null
+      },
+      "C66": {
+        "value": "Does the Information Security Program address - Device and Media Protection",
+        "dropdown_options": null
+      },
+      "D66": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 67,
+    "cells": {
+      "A67": {
+        "value": "Security Policy",
+        "dropdown_options": null
+      },
+      "B67": {
+        "value": "Network Security",
+        "dropdown_options": null
+      },
+      "C67": {
+        "value": "Does the Information Security Program address - Network Security",
+        "dropdown_options": null
+      },
+      "D67": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 68,
+    "cells": {
+      "A68": {
+        "value": "Security Policy",
+        "dropdown_options": null
+      },
+      "B68": {
+        "value": "Vulnerability & Patch Management",
+        "dropdown_options": null
+      },
+      "C68": {
+        "value": "Does the Information Security Program address - Vulnerability and Patch Management",
+        "dropdown_options": null
+      },
+      "D68": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 69,
+    "cells": {
+      "A69": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B69": {
+        "value": "Pre-engagement review",
+        "dropdown_options": null
+      },
+      "C69": {
+        "value": "Is there a process to review third parties initially before engagement",
+        "dropdown_options": null
+      },
+      "D69": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 70,
+    "cells": {
+      "A70": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B70": {
+        "value": "OIG checking",
+        "dropdown_options": null
+      },
+      "C70": {
+        "value": "Are third party resources OIG sanction checked prior to allowing them to support your organization",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 71,
+    "cells": {
+      "A71": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B71": {
+        "value": "Background",
+        "dropdown_options": null
+      },
+      "C71": {
+        "value": "Are third party resources background (criminal, reference, education) checked prior to allowing them to support your organization",
+        "dropdown_options": null
+      },
+      "D71": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 72,
+    "cells": {
+      "A72": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B72": {
+        "value": "Screening",
+        "dropdown_options": null
+      },
+      "C72": {
+        "value": "Are third party resources drug screened prior to allowing them to support your organization",
+        "dropdown_options": null
+      },
+      "D72": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 73,
+    "cells": {
+      "A73": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B73": {
+        "value": "Training and Awareness",
+        "dropdown_options": null
+      },
+      "C73": {
+        "value": "Are third party resources required to have initial and on-going security awareness and training?",
+        "dropdown_options": null
+      },
+      "D73": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 74,
+    "cells": {
+      "A74": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B74": {
+        "value": "Legal Agreements",
+        "dropdown_options": null
+      },
+      "C74": {
+        "value": "Do contracts include the appropriate security controls language like right to audit clauses, expected security controls, acceptable use, destruction and return of data and breach reporting requirements?",
+        "dropdown_options": null
+      },
+      "D74": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 75,
+    "cells": {
+      "A75": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B75": {
+        "value": "Privacy",
+        "dropdown_options": null
+      },
+      "C75": {
+        "value": "Do you you use/pay [contract] with third parties to perform tasks on your behalf that include creating, receiving, transmitting or maintaining PHI?",
+        "dropdown_options": null
+      },
+      "D75": {
+        "value": "NA",
+        "dropdown_options": null
+      },
+      "E75": {
+        "value": "PHI not in scope for TaskUp",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "RAQ HHVR",
+    "row": 76,
+    "cells": {
+      "A76": {
+        "value": "Third Party Risk",
+        "dropdown_options": null
+      },
+      "B76": {
+        "value": "Privacy",
+        "dropdown_options": null
+      },
+      "C76": {
+        "value": "Do you enter into a Business Associate Agreement with your subcontractors that create, receive, maintain or transmit PHI on your behalf?",
+        "dropdown_options": null
+      },
+      "D76": {
+        "value": "NA",
+        "dropdown_options": [
+          "\"Yes, No, NA, Partial\""
+        ]
+      },
+      "E76": {
+        "value": "PHI not in scope for TaskUp",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "ResponseValues",
+    "row": 1,
+    "cells": {
+      "A1": {
+        "value": "Yes",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "ResponseValues",
+    "row": 2,
+    "cells": {
+      "A2": {
+        "value": "No",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "ResponseValues",
+    "row": 3,
+    "cells": {
+      "A3": {
+        "value": "Partial",
+        "dropdown_options": null
+      }
+    }
+  },
+  {
+    "sheet": "ResponseValues",
+    "row": 4,
+    "cells": {
+      "A4": {
+        "value": "NA",
+        "dropdown_options": null
+      }
+    }
+  }
+]

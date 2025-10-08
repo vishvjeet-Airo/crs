@@ -1,0 +1,571 @@
+[Sheet: Sheet1]
+Row 1
+A1 = "* Number"
+B1 = "* Name"
+Row 2
+A2 = "1"
+B2 = "As part of your engagement or potential engagement as a vendor of Charles Schwab, please review and complete the questions below, and upload relevant attachments, within 14 days of receipt.  Your responses to these questions are an important part of the contracting and risk management processes, and are required to be complete, timely, and accurate. 
+If you have questions or concerns related to the completion of this questionnaire please contact Vendors@schwab.com"
+Row 3
+A3 = "2"
+B3 = "In addition to your responses to the required questions, please attach your most recent/current versions of any of the following documents.  Please provide any required document passwords in the below fields for that attachment If you are unsure if your organization has already provided an evidence, navigate to the "certificates" section within your Ariba Network homepage to validate any currently submitted documentation."
+Row 4
+A4 = "2.1"
+B4 = "SOC 1 audit report and bridge letter"
+Row 5
+A5 = "2.2"
+B5 = "SOC 2 audit report and bridge letter"
+C5 = "Please see attached Compass Group's SOC2 Type2 Statement. "
+Row 6
+A6 = "2.3"
+B6 = "SOC 3 audit report and bridge letter"
+Row 7
+A7 = "2.4"
+B7 = "ISO 27001 Certificate"
+Row 8
+A8 = "2.5"
+B8 = "ISO 27017 Certificate"
+Row 9
+A9 = "2.6"
+B9 = "ISO 27018 Certificate"
+Row 10
+A10 = "2.7"
+B10 = "PCI DSS Certificate"
+Row 11
+A11 = "2.8"
+B11 = "HITRUST CSF Assessment Report or certification letter/link"
+Row 12
+A12 = "2.9"
+B12 = "FedRAMP Certification"
+Row 13
+A13 = "2.10"
+B13 = "Other independent internally or externally audited report, scoped to controls relevant to the services being provided to Schwab"
+Row 14
+A14 = "2.11"
+B14 = "In addition to or instead of completing the assigned questionnaires selected below, you may upload your corporate Standard Industry Gathering (SIG) questionnaire (or equivalent questionnaire).  This report should be complete, accurate, and up to date, and convey responses related to the control environment similarly to the assigned questionnaires.  You understand there are some questionnaires that you must still complete, as indicated below, even if you submit a SIG.   You also understand Schwab may reassign any or all of these questionnaires to you if Schwab determines that they are still necessary after reviewing this SIG."
+Row 15
+A15 = "2.12"
+B15 = "Please confirm submission of your completed SIG questionnaire:"
+Row 16
+B16 = "In addition to completing the questionnaire below, please also provide your company's Business Continuity and Disaster Recovery redacted tests results pertaining to products/services delivered to Schwab inclusive of test dates, scope of test(s), type of test (i.e. tabletop, simulation, etc.), results, and any issue remediation plans (if issues were identified during testing). If excel/ email pose an issue please reach out to ThirdPartyDueDiligence@schwab.com."
+C16 = "Please see attached Disaster Recovery Summary."
+Row 17
+A17 = "3"
+B17 = "Business Continuity and Data Risk Assessment"
+C17 = "Vendor Response"
+Row 18
+A18 = "3.1"
+B18 = "J.1;Is there an established incident management program that has been approved by management, communicated to appropriate constituents and an owner to maintain and review the program? If yes, please attach your Incident Mgmt/Crisis Mgmt  Plan or Executive Summary demonstrating annual maintenance cycle"
+C18 = "Yes, please see attached Incident Response Statement for all incident response questions below."
+Row 19
+A19 = "3.2"
+B19 = "J.2.6;Does the Incident Response Plan include guidance for recovery procedures?"
+Row 20
+A20 = "3.3"
+B20 = "J.2.17.1;Do the Incident Response Plan notification procedures include any customer/client-specific notification requirements?"
+Row 21
+A21 = "3.4"
+B21 = "J.2.19;Does the Incident Response Plan include annual testing of the procedures?"
+Row 22
+A22 = "3.5"
+B22 = "J.2.20;Date of last Incident Response test"
+Row 23
+A23 = "3.6"
+B23 = "J.2.21;Does the Incident Response Plan include procedures documenting when and by whom, contact with relevant authorities (e.g., law enforcement) is required?"
+Row 24
+A24 = "3.7"
+B24 = "J.2.22;Does the Incident Response Plan require identifying and mitigating all vulnerabilities that were exploited, removing all malware, inappropriate materials and other components, and remediating any affected systems discovered after incident closure?"
+Row 25
+A25 = "3.8"
+B25 = "J.2.23;Does the Incident Response Plan require returning systems to an operationally ready state, confirming that the affected systems are functioning normally and if necessary implement additional monitoring to look for future related activity?"
+Row 26
+A26 = "3.9"
+B26 = "J.2.23.1;Are personnel, processes and technologies budgeted and in-place to adequately support recovery and restoration of systems and data after incident containment?"
+Row 27
+A27 = "3.1"
+B27 = "J.2.24;Is the incident response plan protected from unauthorized disclosure and modification?"
+Row 28
+A28 = "3.11"
+B28 = "J.3.1;Does the Incident Response Plan include loss of service incident procedures (equipment or facility)?"
+Row 29
+A29 = "3.12"
+B29 = "J.3.12;Does the Incident Response Plan include denial of service incident procedures?"
+Row 30
+A30 = "3.13"
+B30 = "K.1;Is there an established business resiliency program that has been approved by management, communicated to appropriate constituents, and an owner to maintain and review the program? If yes, please attach Business resiliency (business continuity and/or disaster recovery plan - may be redacted ) or comprehensive Executive Summary outlining your firm’s BCP/DR Resilience model may be attached to substantiate attestation in answering the questions."
+C30 = "Yes, please see attached Disaster Recovery summary. "
+Row 31
+A31 = "3.14"
+B31 = "K.1.2;Have appropriate actions been taken to ensure that person(s) working under the Business Resiliency program have or acquire the desired competencies?"
+C31 = "Yes"
+Row 32
+A32 = "3.15"
+B32 = "K.1.2.1;Is annual employee training and awareness a part of your BC/DR program?"
+C32 = "Yes"
+Row 33
+A33 = "3.16"
+B33 = "K.1.2.2;Has BC/DR annual employee training and awareness been conducted in the last 12 months?"
+C33 = "Yes"
+Row 34
+A34 = "3.17"
+B34 = "K.1.3;Does the business resiliency program include a formal annual (or more frequent) executive management review of business continuity key performance indicators, accomplishments, and issues?"
+C34 = "Yes"
+Row 35
+A35 = "3.18"
+B35 = "K.1.3.1;Does the Business resiliency program's annual review include adequacy of resources including people, technology, facilities, and funding?"
+C35 = "Yes"
+Row 36
+A36 = "3.19"
+B36 = "K.1.3.4;Does the Business resiliency program's annual review include results of exercising and testing?"
+C36 = "Yes"
+Row 37
+A37 = "3.2"
+B37 = "K.1.3.5;Does the Business resiliency program's annual review include lessons learned and actions arising from disruptive incidents?"
+C37 = "Yes"
+Row 38
+A38 = "3.21"
+B38 = "K.1.4;Has formal documentation and reference information relevant to the Business Resiliency program and procedures been created?"
+C38 = "Yes"
+Row 39
+A39 = "3.22"
+B39 = "K.1.4.1;Does Business Resiliency documentation include controls to ensure its availability when and where it is needed?"
+C39 = "Yes"
+Row 40
+A40 = "3.23"
+B40 = "K.1.4.2;Is version and change control managed for Business Resiliency documentation?"
+C40 = "Yes"
+Row 41
+A41 = "3.24"
+B41 = "K.1.5;Do the products and/or services specified in the scope of this assessment fall within the scope of the Business Resiliency program?"
+C41 = "Yes"
+Row 42
+A42 = "3.25"
+B42 = "K.1.5.1;Are specific recovery objectives/requirements defined for those products and/or services specified in the scope of this assessment?"
+C42 = "Yes"
+Row 43
+A43 = "3.26"
+B43 = "K.2;Has a Business Impact Analysis been conducted? If yes, please attach Policy/procedure addressing Business Impact Analysis"
+C43 = "Yes, please see attached General Policy Request Statement."
+Row 44
+A44 = "3.27"
+B44 = "K.2.1;Does the Business Impact Analysis include validation and/or refresh at least annually?"
+C44 = "Yes"
+Row 45
+A45 = "3.28"
+B45 = "K.2.2;Does the Business Impact Analysis include Business Activity or business process Criticality (high, medium, low or numerical rating) that distinguishes the relative importance of each activity or process?"
+C45 = "Yes"
+Row 46
+A46 = "3.29"
+B46 = "K.2.3;Does the Business Impact Analysis include identification of applications, data, equipment, facilities, personnel, supplies and paper documents necessary for recovery?"
+C46 = "Yes"
+Row 47
+A47 = "3.3"
+B47 = "K.2.4;Does the Business Impact Analysis include maximum Acceptable Outage / Maximum Tolerable Period of Disruption for each Business Activity or Business Process?"
+C47 = "Yes"
+Row 48
+A48 = "3.31"
+B48 = "K.2.5;Does the Business Impact Analysis include recovery Time Objectives for all essential application systems, network service, and other resources?"
+C48 = "Yes"
+Row 49
+A49 = "3.32"
+B49 = "K.2.6;Does the Business Impact Analysis include recovery Point Objective for all essential application systems?"
+C49 = "Yes"
+Row 50
+A50 = "3.33"
+B50 = "K.2.7;Does the Business Impact Analysis include impact to clients/customers?"
+C50 = "Yes"
+Row 51
+A51 = "3.34"
+B51 = "K.2.8;Does the Business Impact Analysis include capacity to address needs/expectations of all clients/customers?"
+C51 = "Yes"
+Row 52
+A52 = "3.35"
+B52 = "K.2.9;Does the Business Impact Analysis include identification of the recovery requirements for information security and the continuity of information security management?"
+C52 = "Yes"
+Row 53
+A53 = "3.36"
+B53 = "K.3;Is there a formal process focused on identifying and addressing risks of disruptive incidents to business operations?"
+C53 = "Yes"
+Row 54
+A54 = "3.37"
+B54 = "K.3.1;Do Operational Risk Assessments include identifying risks associated with disruptions to systems, information, people, third parties, and facilities? If yes, please attach your Policy/procedure addressing Operational Risk Assessment associated with disruptions"
+C54 = "Yes, please see General Policy Request statement."
+Row 55
+A55 = "3.38"
+B55 = "K.3.2;Do Operational Risk Assessments include analysis of risks identified and determination of those requiring treatments?"
+C55 = "Yes"
+Row 56
+A56 = "3.39"
+B56 = "K.3.3;Do Operational Risk Assessments include taking action on approved treatments?"
+C56 = "Yes"
+Row 57
+A57 = "3.4"
+B57 = "K.4;Are specific response and recovery strategies defined for the prioritized business activities?"
+C57 = "Yes"
+Row 58
+A58 = "3.41"
+B58 = "K.4.1;Are specific response and recovery strategies defined for critical loss or unavailability of personnel (40% or more)?"
+C58 = "Yes"
+Row 59
+A59 = "3.42"
+B59 = "K.4.2;Are specific response and recovery strategies defined for critical loss or unavailability of information and data?"
+C59 = "Yes"
+Row 60
+A60 = "3.43"
+B60 = "K.4.3;Are specific response and recovery strategies defined for critical loss or unavailability of information and communication technology?"
+C60 = "Yes"
+Row 61
+A61 = "3.44"
+B61 = "K.4.4;Are specific response and recovery strategies defined for critical loss or unavailability of work places/buildings?"
+C61 = "Yes"
+Row 62
+A62 = "3.45"
+B62 = "K.4.5;Are specific response and recovery strategies defined for critical loss or unavailability of third party services (e.g., partners and suppliers)?"
+C62 = "Yes"
+Row 63
+A63 = "3.46"
+B63 = "K.5;Are formal business continuity procedures developed and documented?"
+C63 = "Yes"
+Row 64
+A64 = "3.47"
+B64 = "K.5.1;Do formal business continuity procedures include specific actions to be taken in response to a disruptive event?"
+C64 = "Yes"
+Row 65
+A65 = "3.48"
+B65 = "K.5.2;Do formal business continuity procedures include the continuity of Information security activities and processes (e.g., intrusion detection, vulnerability management, log collection)?"
+C65 = "Yes"
+Row 66
+A66 = "3.49"
+B66 = "K.5.3;Do formal business continuity procedures include the continuity of IT operations activities and processes (e.g., network operations, data center operations, help desk)?"
+C66 = "Yes"
+Row 67
+A67 = "3.5"
+B67 = "K.6;Has senior management assigned the responsibility for the overall management of critical response and recovery efforts?"
+C67 = "Yes"
+Row 68
+A68 = "3.51"
+B68 = "K.6.4;Does the overall management of critical response and recovery include alternate and diverse means of communications in the event standard communication channels are unavailable?"
+C68 = "Yes"
+Row 69
+A69 = "3.52"
+B69 = "K.6.5;Does the overall management of critical response and recovery include notification and escalation to customers/clients?"
+C69 = "Yes"
+Row 70
+A70 = "3.53"
+B70 = "K.7;Is there a periodic (at least annual) review of your Business Resiliency procedures?"
+C70 = "Yes"
+Row 71
+A71 = "3.54"
+B71 = "K.7.1;Does periodic review of Business Resiliency procedures include updates to the procedures as necessary after the review?"
+C71 = "Yes"
+Row 72
+A72 = "3.55"
+B72 = "K.7.4;Does periodic review of Business Resiliency procedures include emerging threats and identified new risks?"
+C72 = "Yes"
+Row 73
+A73 = "3.56"
+B73 = "K.8;Are there any dependencies on critical third party service providers?"
+C73 = "Yes, critical third parties include cloud hosting and payment processing providers."
+Row 74
+A74 = "3.57"
+B74 = "K.9;Is there a formal, documented Information Technology Disaster Recovery exercise and testing program in place? If yes, please provide date and type of most recent DR test completed or summary of testing results that includes this information."
+C74 = "Yes, October 2024. Per company policy, we do not share results."
+Row 75
+A75 = "3.58"
+B75 = "K.9.1.4;Does Information Technology Disaster Recovery testing include recovery of critical network infrastructure?"
+C75 = "Please see attached Disaster Recovery summary for all questions below."
+Row 76
+A76 = "3.59"
+B76 = "K.9.2.1;Do Information Technology Disaster Recovery testing scenarios include loss of critical information and communication technology?"
+Row 77
+A77 = "3.6"
+B77 = "K.9.2.2;Do Information Technology Disaster Recovery testing scenarios include loss of service due to dedicated denial of service / cyber attacks?"
+Row 78
+A78 = "3.61"
+B78 = "K.9.2.3;Do Information Technology Disaster Recovery testing scenarios include loss of critical work places/buildings?"
+Row 79
+A79 = "3.62"
+B79 = "K.9.2.4;Do Information Technology Disaster Recovery testing scenarios include loss of critical personnel?"
+Row 80
+A80 = "3.63"
+B80 = "K.9.2.5;Do Information Technology Disaster Recovery testing scenarios include loss of critical third party services (e.g., partners and suppliers)?"
+Row 81
+A81 = "3.64"
+B81 = "K.9.2.6;Do Information Technology Disaster Recovery testing scenarios include reconstructing material financial transactions sufficient to support normal operations and obligations?"
+Row 82
+A82 = "3.65"
+B82 = "K.9.3;Are measurable recovery objectives defined for each exercise and test?"
+Row 83
+A83 = "3.66"
+B83 = "K.9.3.1;Do measurable recovery objectives include Recovery Time Objectives for all essential application systems, network services and other resources?"
+Row 84
+A84 = "3.67"
+B84 = "K.9.3.2;Do measurable recovery objectives include Recovery Point Objectives for all essential application systems?"
+Row 85
+A85 = "3.68"
+B85 = "K.9.4;Are the recovery objective attainment results and the issues identified evaluated with improvement actions identified and acted upon?"
+Row 86
+A86 = "3.69"
+B86 = "K.9.5.2;Do Disaster Recovery tests include notification procedure and mechanism tests?"
+Row 87
+A87 = "3.7"
+B87 = "K.9.5.3;Do Disaster Recovery tests include application recovery tests?"
+Row 88
+A88 = "3.71"
+B88 = "K.9.5.4;Do Disaster Recovery tests include remote access tests?"
+Row 89
+A89 = "3.72"
+B89 = "K.9.5.5;Do Disaster Recovery tests include full scale exercises / end-to-end?"
+Row 90
+A90 = "3.73"
+B90 = "K.9.5.6;Do Disaster Recovery tests include production transaction processing?"
+Row 91
+A91 = "3.74"
+B91 = "K.9.5.7;Do Disaster Recovery tests include typical business volumes / full capacity?"
+Row 92
+A92 = "3.75"
+B92 = "K.9.5.8;Do Business Continuity tests include business relocation testing?"
+Row 93
+A93 = "3.76"
+B93 = "K.9.5.9;Do Disaster Recovery tests include data center failover testing?"
+Row 94
+A94 = "3.77"
+B94 = "K.9.5.10;Are critical service providers included in Disaster Recovery testing?"
+Row 95
+A95 = "3.78"
+B95 = "K.9.5.11;Do Disaster Recovery tests include recovery and continuity of information security controls that may be impacted by a disaster event?"
+Row 96
+A96 = "3.79"
+B96 = "K.9.5.12;Do Business Continuity tests include recovery and continuity of information security operational processes and controls that may be impacted by a non-Disaster Recovery event (e.g., loss of physical work place, reduction in available IS personnel)? If yes, please indicate date and type of most recent BC test completed or summary of testing results that includes this information"
+C96 = "Yes"
+Row 97
+A97 = "3.8"
+B97 = "K.9.5.13;Do Business Continuity exercises include recovery and continuity of IT operational processes and controls that may be impacted by a non-Disaster Recovery event (e.g., loss of physical work place, reduction in available IT operations personnel)?"
+C97 = "Yes"
+Row 98
+A98 = "3.81"
+B98 = "K.9.6;Are the results of exercises conducted internally shared with customers?"
+C98 = "No"
+Row 99
+A99 = "3.82"
+B99 = "K.9.7;Are joint exercises conducted in partnership with customers?"
+C99 = "No"
+Row 100
+A100 = "3.83"
+B100 = "K.9.8;Is there an established Business Resiliency exercise scenario addressing cyber resilience?"
+C100 = "Please see Disaster Recovery summary for all questions below."
+Row 101
+A101 = "3.84"
+B101 = "K.9.8.1;Does cyber resilience testing include Malware scenarios?"
+Row 102
+A102 = "3.85"
+B102 = "K.9.8.2;Does cyber resilience testing include Insider Threat scenarios?"
+Row 103
+A103 = "3.86"
+B103 = "K.9.8.3;Does cyber resilience testing include data or system destruction and corruption scenarios?"
+Row 104
+A104 = "3.87"
+B104 = "K.9.8.4;Does cyber resilience testing include communications infrastructure disruption scenarios?"
+Row 105
+A105 = "3.88"
+B105 = "K.9.8.5;Does cyber resilience testing include simultaneous Attack scenarios?"
+Row 106
+A106 = "3.89"
+B106 = "K.10;Is there a Pandemic / Infectious Disease Outbreak / mass absenteeism Plan? If yes, please provide Policy/procedure addressing Business Resiliency (inclusive of Business Continuity, Disaster Recovery, and mass absenteeism/Pandemic)."
+C106 = "Yes"
+Row 107
+A107 = "3.9"
+B107 = "K.10.1;Are there trigger points for activating proactive and reactive elements of a pandemic or mass absenteeism plan?"
+C107 = "Yes"
+Row 108
+A108 = "3.91"
+B108 = "K.10.2;Is there a defined exercise regime/schedule focused on key elements of the pandemic or mass absenteeism plan?"
+C108 = "Yes"
+Row 109
+A109 = "3.92"
+B109 = "K.10.2.1;As part of the pandemic plan, does your organization have strategies that includes transferring work and/or work remote capabilities?"
+C109 = "Yes"
+Row 110
+A110 = "3.93"
+B110 = "K.10.2.2;As part of your pandemic plan are potential impacts associated with third-parties that support your operations considered ?"
+C110 = "Yes"
+Row 111
+A111 = "3.94"
+B111 = "K.10.2.3;As part of your pandemic plan are potential impacts associated with impact to supply chain considered ?"
+C111 = "Yes"
+Row 112
+A112 = "3.95"
+B112 = "K.11;Are any critical subcontractors necessary to provide the scoped services to clients?"
+C112 = "Yes"
+Row 113
+A113 = "3.96"
+B113 = "K.11.2;Are each of the vendors identified in the vendor dependency chart or list subjected to at least an annual disaster recovery test for service provided?"
+C113 = "Yes"
+Row 114
+A114 = "3.97"
+B114 = "K.11.2.1;Does the business continuity plan include table top exercises?"
+C114 = "Yes"
+Row 115
+A115 = "3.98"
+B115 = "K.11.2.3;Does the business continuity plan include functional testing?"
+C115 = "Yes"
+Row 116
+A116 = "3.99"
+B116 = "K.11.2.4;Does the business continuity plan include full scale failover testing?"
+C116 = "Yes"
+Row 117
+A117 = "3.1"
+B117 = "K.11.3;Does more than one critical vendor support the live platform at any given time?"
+C117 = "Yes"
+Row 118
+A118 = "3.101"
+B118 = "K.11.4;Are all suppliers of critical hardware, network services and facility services involved in annual continuity and recovery tests?"
+C118 = "Yes"
+Row 119
+A119 = "3.102"
+B119 = "K.11.4.1;Do Business Resiliency test scenarios contain fail-over across critical vendors?"
+C119 = "Yes"
+Row 120
+A120 = "3.103"
+B120 = "K.11.4.2;Are there requirements to review and update the BCP for each significant business change to the critical supporting vendors?"
+C120 = "Yes"
+Row 121
+A121 = "3.104"
+B121 = "K.11.5;Do contracts with Critical Service Providers include a penalty or remediation clause for breach of availability and continuity SLAs?"
+C121 = "Dependent on contract."
+Row 122
+A122 = "3.105"
+B122 = "K.11.6;Is priority access to resources from suppliers contractually ensured in the event of an adverse situation, affecting multiple customers of suppliers (e.g., fuel oil, recovery center space)?"
+C122 = "Dependent on contract."
+Row 123
+A123 = "3.106"
+B123 = "K.12;Do formal business continuity procedures include the ability to reconstruct material financial transactions sufficient to support normal operations and obligations?"
+C123 = "Yes"
+Row 124
+A124 = "3.107"
+B124 = "K.13;Could more than one data center contain Scoped Systems and Data at any one time?"
+C124 = "Yes, via cloud hosting providers"
+Row 125
+A125 = "3.108"
+B125 = "K.13.1;Do the data centers backup one another?"
+C125 = "Yes, via cloud hosting providers"
+Row 126
+A126 = "3.109"
+B126 = "K.13.1.1;Are backup data centers' availability mode cold standby?"
+C126 = "Yes, via cloud hosting providers"
+Row 127
+A127 = "3.11"
+B127 = "K.13.1.2;Are backup data centers' availability mode warm standby?"
+C127 = "Yes, via cloud hosting providers"
+Row 128
+A128 = "3.111"
+B128 = "K.13.1.3;Are backup data centers' availability mode hot standby?"
+C128 = "Yes, via cloud hosting providers"
+Row 129
+A129 = "3.112"
+B129 = "K.13.2;Are the failover sites for the underlying infrastructure running on different vendor physical systems?"
+C129 = "Yes, via cloud hosting providers"
+Row 130
+A130 = "3.113"
+B130 = "K.13.3;Are site failover tests performed at least annually?"
+C130 = "Yes, via cloud hosting providers"
+Row 131
+A131 = "3.114"
+B131 = "K.13.4;Are sites failed over regularly as part of normal change activities?"
+C131 = "Yes, via cloud hosting providers"
+Row 132
+A132 = "3.115"
+B132 = "K.14;Are networks fully redundant, with at least two network paths to any node, and for every network device, at least one other redundant network device of the same type?"
+C132 = "Yes, via cloud hosting providers"
+Row 133
+A133 = "3.116"
+B133 = "K.15;Is there sufficient redundancy capacity to ensure services are not impacted in multi-tenancy environments during peak usage and above?"
+C133 = "Yes, via cloud hosting providers"
+Row 134
+A134 = "3.117"
+B134 = "K.16;Is there sufficient Volume or Disk partitioning to prevent inadvertent resource bottlenecks from guest operating systems?"
+C134 = "Yes, via cloud hosting providers"
+Row 135
+A135 = "3.118"
+B135 = "K.17;Are backups of Scoped Systems and Data performed?"
+C135 = "Yes, via cloud hosting providers"
+Row 136
+A136 = "3.119"
+B136 = "K.17.1;Is there a policy or process for the backup of production data?"
+C136 = "Yes, via cloud hosting providers"
+Row 137
+A137 = "3.12"
+B137 = "K.17.1.1;Are backup media and restoration procedures tested at least annually?"
+C137 = "Yes, via cloud hosting providers"
+Row 138
+A138 = "3.121"
+B138 = "K.17.1.2;Is backup media tracked and reviewed for compliance to data retention/destruction requirements at least annually?"
+C138 = "Yes, via cloud hosting providers"
+Row 139
+A139 = "3.122"
+B139 = "K.17.2;Are backup and replication errors reviewed and resolved as required?"
+C139 = "Yes, via cloud hosting providers"
+Row 140
+A140 = "3.123"
+B140 = "K.17.2.1;Are backup and replication errors reviewed and resolved at least weekly?"
+C140 = "Yes, via cloud hosting providers"
+Row 141
+A141 = "3.124"
+B141 = "K.17.2.2;Are backup and replication errors reviewed and resolved on a daily basis?"
+C141 = "Yes, via cloud hosting providers"
+Row 142
+A142 = "3.125"
+B142 = "K.17.3;Is backup media stored offsite?"
+C142 = "Yes, via cloud hosting providers"
+Row 143
+A143 = "3.126"
+B143 = "K.17.3.4;Is there a verifiable Chain of Custody when moving backup media offsite?"
+C143 = "Yes, via cloud hosting providers"
+Row 144
+A144 = "3.127"
+B144 = "K.17.4;Are backups containing Scoped Data stored in an environment where the security controls protecting them are equivalent to production environment security controls?"
+C144 = "Yes, via cloud hosting providers"
+Row 145
+A145 = "3.128"
+B145 = "K.18; Whether a cloud environment or a traditional data center environment, the backup site  shall be located at a distance from the primary  site that is not susceptible to the same hazards and does not share the same power supply, telecommunications, water sources or transportation. How far is the backup/alternate site  from the primary site in miles/kilometers?"
+C145 = "Yes, via cloud hosting providers"
+Row 146
+A146 = "3.129"
+B146 = "K.18.1;Provide location of primary data center"
+C146 = "Cloud hosting located in US"
+Row 147
+A147 = "3.13"
+B147 = "K.18.2;Provide location of alternate data center"
+C147 = "Cloud hosting located in US"
+Row 148
+A148 = "3.131"
+B148 = "K.18.3;Provide location of primary service center"
+C148 = "Cloud hosting located in US"
+Row 149
+A149 = "3.132"
+B149 = "K.18.4;Provide location of alternate service center"
+C149 = "Cloud hosting located in US"
+Row 150
+A150 = "3.133"
+B150 = "K.19;Provide date of most recent disaster recovery execise/failover"
+C150 = "2024-10-01 00:00:00"
+Row 151
+A151 = "3.134"
+B151 = "K.19.1;Provide date of next scheduled disaster recovery exercise/site failover"
+Row 152
+A152 = "3.135"
+B152 = "K.19.2;Provide date of the most recent BC test"
+C152 = "2024-11-01 00:00:00"
+Row 153
+A153 = "3.136"
+B153 = "K.20.1;If applicable, for  services delivered to Schwab"
+Row 154
+B154 = "provide Recovery Time Objective(s) RTO(s) for Business Service Continuity: (hours)"
+Row 155
+A155 = "3.137"
+B155 = "K.20.2;If applicable, for  services delivered to Schwab"
+Row 156
+B156 = "provide Recovery Capacity Objective (RCO) for Business Continuity: (%)"
+Row 157
+A157 = "3.138"
+B157 = "K.20.3;If applicable, for  services delivered to Schwab"

@@ -1,0 +1,11 @@
+Compass Group is a food services provider that does not directly handle Verizon customers' payment card information or have access to Verizon's cardholder data environment. The company uses FreedomPay, a Level 1 PCI compliant Point-to-Point Encryption (P2PE) solution provider, for payment processing. Compass Group does not store credit card data and operates only in the United States for this engagement.
+
+Regarding payment processing, Compass Group does not provide services for authorizing and settling credit/debit card payments on Verizon's behalf. They do not utilize bill payment kiosks or card reading devices. However, they do use an approved payment application registered with the PCI Security Standards Council (SSC), which is the FreedomPay system.
+
+Compass Group has provided a PCI Service Provider Attestation of Compliance (AOC) for their current processing. This document, along with a PCI statement and a VISA Global Registry PDF, demonstrates their compliance with PCI standards. VISA verifies FreedomPay's PCI compliance annually and collects AOCs.
+
+The company does not provide care center services, such as call centers, telesales, or collections groups, as part of their food services to Verizon. Consequently, they do not record Verizon customer calls or perform screen or voice captures during engagements. Compass Group also does not use Verizon systems to take credit/debit card payments on Verizon's behalf.
+
+Compass Group does not employ any third parties to provide functions that can impact Verizon's credit card environment where credit card information is entered, stored, processed, or transmitted. Additionally, they do not have access to Verizon computers, servers, storage devices, network equipment, or other hardware for purposes such as patching, installation, maintenance, replacement, or destruction.
+
+The information provided in this assessment was completed by Melanie Kessel, with the email address melanie.kessel@compass-usa.com, on December 6, 2024. This questionnaire is part of Verizon's Supplier Risk Management PCI Assessment process, which is used to evaluate third-party suppliers' controls for ensuring the integrity and protection of Verizon's PCI data.

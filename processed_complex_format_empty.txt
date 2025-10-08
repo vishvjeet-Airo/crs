@@ -1,0 +1,112 @@
+[Sheet: Sheet1]
+Row 3
+B3 = "Completed by:"
+C3 = (empty) (color:Link Water)
+D3 = "Compass Group / Bon Appetit"
+Row 4
+B4 = "Updated by:"
+C4 = (empty) (color:Link Water)
+D4 = (empty) (color:Yellow)
+Row 5
+B5 = "Date:"
+C5 = (empty) (color:Link Water)
+D5 = "2024-10-30 00:00:00"
+Row 7
+A7 = "PART I - Applications"
+Row 9
+B9 = "A)"
+C9 = "In the table below, please list the significant computer applications and the transaction classes impacted, identify the source of the software used (i.e., service organization, internally developed, or externally developed), and indicate whether the company has access to vendor source code. For vendor software packages, provide information such as the vendor or brand name, version, and significant customized features or modifications. Consider all facets of the entity’s financial information and financial drivers (i.e., all financial systems, payroll provider systems, operational systems that feed the financial system, etc.). "
+Row 11
+C11 = "Application"
+E11 = "Transaction Class Impacted"
+F11 = "Service Organization Name 
+(if applicable)"
+G11 = "Internally Developed
+ (Y/N)"
+H11 = "Vendor/Brand
+Name and Version"
+I11 = "Custom Features
+(if any)"
+J11 = "Have Access to Source Code?"
+K11 = "Entities that use the application?"
+Row 12
+C12 = (empty) (color:Magic Mint)
+E12 = (empty) (color:Magic Mint)
+F12 = (empty) (color:Magic Mint)
+G12 = (empty) (color:Magic Mint)
+H12 = (empty) (color:Magic Mint)
+I12 = (empty) (color:Magic Mint)
+J12 = (empty) (color:Magic Mint)
+K12 = (empty) (color:Magic Mint)
+Row 13
+C13 = (empty) (color:Magic Mint)
+E13 = (empty) (color:Magic Mint)
+F13 = (empty) (color:Magic Mint)
+G13 = (empty) (color:Magic Mint)
+H13 = (empty) (color:Magic Mint)
+I13 = (empty) (color:Magic Mint)
+J13 = (empty) (color:Magic Mint)
+K13 = (empty) (color:Magic Mint)
+Row 14
+C14 = (empty) (color:Magic Mint)
+E14 = (empty) (color:Magic Mint)
+F14 = (empty) (color:Magic Mint)
+G14 = (empty) (color:Magic Mint)
+H14 = (empty) (color:Magic Mint)
+I14 = (empty) (color:Magic Mint)
+J14 = (empty) (color:Magic Mint)
+K14 = (empty) (color:Magic Mint)
+Row 15
+C15 = (empty) (color:Magic Mint)
+E15 = (empty) (color:Magic Mint)
+F15 = (empty) (color:Magic Mint)
+G15 = (empty) (color:Magic Mint)
+H15 = (empty) (color:Magic Mint)
+I15 = (empty) (color:Magic Mint)
+J15 = (empty) (color:Magic Mint)
+K15 = (empty) (color:Magic Mint)
+Row 16
+C16 = (empty) (color:Magic Mint)
+E16 = (empty) (color:Magic Mint)
+F16 = (empty) (color:Magic Mint)
+G16 = (empty) (color:Magic Mint)
+H16 = (empty) (color:Magic Mint)
+I16 = (empty) (color:Magic Mint)
+J16 = (empty) (color:Magic Mint)
+K16 = (empty) (color:Magic Mint)
+Row 17
+C17 = (empty) (color:Magic Mint)
+E17 = (empty) (color:Magic Mint)
+F17 = (empty) (color:Magic Mint)
+G17 = (empty) (color:Magic Mint)
+H17 = (empty) (color:Magic Mint)
+I17 = (empty) (color:Magic Mint)
+J17 = (empty) (color:Magic Mint)
+K17 = (empty) (color:Magic Mint)
+Row 19
+B19 = "B)"
+C19 = "How is depreciation calculated and recorded for fixed assets? How are cash accounts reconciled? Are these processes performed through the use of automated systems/accounting software, or manual calculation using excel or other methods?"
+Row 21
+C21 = (empty) (color:Magic Mint)
+Row 23
+B23 = "C)"
+C23 = "If a service organization is used in a significant transaction class, describe how the service organization is used, along with your conclusion about whether it is necessary to obtain an understanding of the nature and significance of the services provided by the service organization and their effect on the user entity's system of internal control. If it is necessary, describe the sources of information used and procedures performed to obtain your understanding."
+Row 25
+C25 = (empty) (color:Magic Mint)
+Row 27
+B27 = "D)"
+C27 = "Identify significant entity-developed spreadsheets that are used for accounting functions or transaction processing. Document whether those spreadsheets are password protected and if there are logical controls built into the spreadsheets to protect their integrity (e.g., are input fields a different color so data is not entered into the wrong cells, and are cells with formulas locked so they cannot be changed without approval?)"
+Row 29
+C29 = (empty) (color:Magic Mint)
+Row 31
+B31 = "E)"
+C31 = "Describe any other information relevant to understanding the entity's IT environment (for example, the computer hardware and configuration used for the accounting system such as networked personal computers with a dedicated server, any significant master files that are used to store data relevant to the audit or the entity's use of e-commerce or other sophisticated processing applications). "
+Row 33
+C33 = (empty) (color:Magic Mint)
+Row 35
+B35 = "F)"
+C35 = "List all individuals that have access to post to the general ledger, and whether or not each individual can post nonstandard journal entries.  Describe how the entity ensures that its IT systems (including any significant entity-developed spreadsheets) are reliable and its data is secure."
+Row 37
+C37 = (empty) (color:Magic Mint)
+Row 39
+C39 = "see next tab"

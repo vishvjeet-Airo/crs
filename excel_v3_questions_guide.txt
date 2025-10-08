@@ -1,0 +1,74 @@
+# EXCEL QUESTIONS AND RESPONSE INSTRUCTIONS
+============================================================
+
+## 1. Question
+**Question:** Completed by:
+**Cell Location:** C3
+
+**Response Instruction:**
+Enter the name of the person who completed this assessment. This should be a text response. There is no specific length limit, but it should be a professional name format (e.g., 'John Doe' or 'J. Smith'). This field is required and should not be left blank.
+
+------------------------------------------------------------
+
+## 2. Question
+**Question:** Updated by:
+**Cell Location:** D4
+
+**Response Instruction:**
+Enter the name of the person who last updated this assessment. This should be a text response. There is no specific length limit, but it should be a professional name format (e.g., 'Jane Doe' or 'J. Johnson'). If no updates have been made since the initial completion, this field can be left blank.
+
+------------------------------------------------------------
+
+## 3. Question
+**Question:** In the table below, please list the significant computer applications and the transaction classes impacted, identify the source of the software used (i.e., service organization, internally developed, or externally developed), and indicate whether the company has access to vendor source code. For vendor software packages, provide information such as the vendor or brand name, version, and significant customized features or modifications. Consider all facets of the entity's financial information and financial drivers (i.e., all financial systems, payroll provider systems, operational systems that feed the financial system, etc.).
+**Cell Location:** C12:K17
+
+**Response Instruction:**
+Fill out the table in cells C12:K17 with the following information for each significant computer application:      - C12:C17: Application name (text)      - E12:E17: Transaction Class Impacted (text, can be multiple classes separated by commas)      - F12:F17: Service Organization Name if applicable (text, leave blank if not applicable)      - G12:G17: Internally Developed (Y/N)      - H12:H17: Vendor/Brand Name and Version (text, format as 'Vendor Name - Version X.X')      - I12:I17: Custom Features if any (text, brief description)      - J12:J17: Have Access to Source Code? (Y/N)      - K12:K17: Entities that use the application (text, can be multiple entities separated by commas)            Each row should represent a single application. Fill out as many rows as needed (up to 6) for all significant applications. If there are more than 6 applications, focus on the most critical ones. Ensure all cells in a row are filled if an application is listed.
+
+------------------------------------------------------------
+
+## 4. Question
+**Question:** How is depreciation calculated and recorded for fixed assets? How are cash accounts reconciled? Are these processes performed through the use of automated systems/accounting software, or manual calculation using excel or other methods?
+**Cell Location:** C21
+
+**Response Instruction:**
+Provide a detailed text response addressing all parts of the question:      1. Explain the method used for calculating depreciation for fixed assets (e.g., straight-line, declining balance).      2. Describe how depreciation is recorded in the accounting system.      3. Explain the process for reconciling cash accounts.      4. Specify whether these processes are automated or manual, and what tools or software are used (e.g., accounting software name, Excel, etc.).            The response should be comprehensive and clear, typically 3-5 sentences long. Use bullet points if it helps to organize the information clearly.
+
+------------------------------------------------------------
+
+## 5. Question
+**Question:** If a service organization is used in a significant transaction class, describe how the service organization is used, along with your conclusion about whether it is necessary to obtain an understanding of the nature and significance of the services provided by the service organization and their effect on the user entity's system of internal control. If it is necessary, describe the sources of information used and procedures performed to obtain your understanding.
+**Cell Location:** C25
+
+**Response Instruction:**
+Provide a detailed text response addressing the following:      1. Identify if any service organizations are used for significant transaction classes.      2. If yes, describe how each service organization is used.      3. Provide a conclusion on whether it's necessary to obtain an understanding of the services provided and their effect on internal control.      4. If understanding is necessary, describe:         a) Sources of information used to gain understanding         b) Procedures performed to obtain understanding            The response should be comprehensive, typically 5-7 sentences long. If no service organizations are used, state this clearly. Use bullet points or numbered lists if it helps to organize the information clearly.
+
+------------------------------------------------------------
+
+## 6. Question
+**Question:** Identify significant entity-developed spreadsheets that are used for accounting functions or transaction processing. Document whether those spreadsheets are password protected and if there are logical controls built into the spreadsheets to protect their integrity (e.g., are input fields a different color so data is not entered into the wrong cells, and are cells with formulas locked so they cannot be changed without approval?)
+**Cell Location:** C29
+
+**Response Instruction:**
+Provide a detailed text response that includes:      1. A list of significant entity-developed spreadsheets used for accounting or transaction processing.      2. For each spreadsheet identified:         a) State whether it is password protected (Yes/No)         b) Describe any logical controls built into the spreadsheet (e.g., color-coded input fields, locked formula cells)      3. If no significant entity-developed spreadsheets are used, state this clearly.            The response should be comprehensive, typically 4-6 sentences long. Use bullet points or a table format if it helps to present the information clearly for multiple spreadsheets.
+
+------------------------------------------------------------
+
+## 7. Question
+**Question:** Describe any other information relevant to understanding the entity's IT environment (for example, the computer hardware and configuration used for the accounting system such as networked personal computers with a dedicated server, any significant master files that are used to store data relevant to the audit or the entity's use of e-commerce or other sophisticated processing applications).
+**Cell Location:** C33
+
+**Response Instruction:**
+Provide a detailed text response that covers:      1. Computer hardware and network configuration used for the accounting system      2. Any significant master files used to store audit-relevant data      3. Use of e-commerce platforms, if applicable      4. Any sophisticated processing applications in use      5. Any other relevant aspects of the IT environment not covered in previous questions            The response should be comprehensive, typically 5-7 sentences long. If there's no additional relevant information beyond what has been provided in previous answers, state this clearly. Use bullet points if it helps to organize the information clearly.
+
+------------------------------------------------------------
+
+## 8. Question
+**Question:** List all individuals that have access to post to the general ledger, and whether or not each individual can post nonstandard journal entries. Describe how the entity ensures that its IT systems (including any significant entity-developed spreadsheets) are reliable and its data is secure.
+**Cell Location:** C37
+
+**Response Instruction:**
+Provide a detailed text response in two parts:            Part 1: List of individuals with general ledger access      - Format as a table or bullet list      - Include each individual's name and their ability to post nonstandard journal entries (Yes/No)            Part 2: Description of IT system reliability and data security measures      - Explain measures taken to ensure reliability of IT systems, including entity-developed spreadsheets      - Describe data security protocols in place      - Include information on access controls, encryption, backup procedures, and any other relevant security measures            The total response should be comprehensive, typically 7-10 sentences long, including the list of individuals and the description of security measures. Use clear headings to separate the two parts of the response.
+
+------------------------------------------------------------

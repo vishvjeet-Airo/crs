@@ -1,0 +1,83 @@
+# EXCEL PARSER V2 - BUSINESS CONTINUITY ASSESSMENT ANALYSIS
+============================================================
+
+# EXCEL SHEET ANALYSIS
+
+## SHEET OVERVIEW
+- Sheet name: Sheet1
+- Title: Business Continuity Assessment
+- Total rows: 39
+- Total columns: 11 (A to K)
+- Main sections: PART I - Applications (with subsections A to F)
+
+## HEADER STRUCTURE
+- Row 3-5: General information (Completed by, Updated by, Date)
+- Row 11: Main table header
+  - Columns: Application (C), Transaction Class Impacted (E), Service Organization Name (F), Internally Developed (G), Vendor/Brand Name and Version (H), Custom Features (I), Have Access to Source Code (J), Entities that use the application (K)
+
+## QUESTION ANALYSIS
+1. Section A (Row 9, Column C):
+   - Question: List significant computer applications, transaction classes, software sources, and vendor details.
+   - Response required: Table format in rows 12-15, columns C-K
+
+2. Section B (Row 19, Column C):
+   - Questions: How is depreciation calculated? How are cash accounts reconciled? Are these processes automated or manual?
+   - Response required: Text entry in Row 21, Column C
+
+3. Section C (Row 23, Column C):
+   - Question: Describe service organization usage and its significance to internal control.
+   - Response required: Text entry in Row 25, Column C
+
+4. Section D (Row 27, Column C):
+   - Question: Identify significant entity-developed spreadsheets and their security measures.
+   - Response required: Text entry in Row 29, Column C
+
+5. Section E (Row 31, Column C):
+   - Question: Describe other relevant information about the entity's IT environment.
+   - Response required: Text entry in Row 33, Column C
+
+6. Section F (Row 35, Column C):
+   - Questions: List individuals with general ledger access. Describe IT system reliability and data security measures.
+   - Response required: Text entry in Row 37, Column C and potentially Row 39, Column C
+
+## RESPONSE MAPPING
+1. General Information:
+   - Completed by: Row 3, Column D
+   - Updated by: Row 4, Column D (implied)
+   - Date: Row 5, Column D
+
+2. Application Table (Rows 12-15):
+   - Application: Column C
+   - Transaction Class Impacted: Column E
+   - Service Organization Name: Column F
+   - Internally Developed (Y/N): Column G
+   - Vendor/Brand Name and Version: Column H
+   - Custom Features: Column I
+   - Have Access to Source Code: Column J
+   - Entities that use the application: Column K
+
+3. Text Responses:
+   - Section B response: Row 21, Column C
+   - Section C response: Row 25, Column C
+   - Section D response: Row 29, Column C
+   - Section E response: Row 33, Column C
+   - Section F response: Row 37, Column C (and possibly Row 39, Column C)
+
+## HIERARCHICAL STRUCTURE
+- PART I - Applications (Row 7) is the main section
+  - Subsections A through F are child elements of PART I
+  - Each subsection contains a question and a corresponding answer area
+
+## SPECIAL INSTRUCTIONS
+1. Row 39, Column C mentions "see next tab", indicating additional information on another sheet.
+2. Row 33, Column C references an attached data security PDF for more details.
+3. Some responses are pre-filled with "N/A", indicating that the question may not be applicable to this entity.
+
+## FILLING INSTRUCTIONS FOR LLM
+1. Use the provided responses for the general information (Rows 3-5) and the application table (Rows 12-15).
+2. For sections B through F, use the text responses provided in the specified rows and columns.
+3. If asked about specific applications or processes, refer to the table in rows 12-15 for detailed information.
+4. Note that some responses indicate "N/A" or refer to external documents. In these cases, do not invent information, but state that the information is not available in the provided data.
+5. Be aware that there may be additional information on another sheet (as mentioned in Row 39) that is not provided in this analysis.
+6. When discussing IT systems or data security, mention the reference to the attached data security PDF in Section E's response.
+7. Maintain consistency with the

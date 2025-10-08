@@ -1,0 +1,81 @@
+# LLM FILLING INSTRUCTIONS - BUSINESS CONTINUITY ASSESSMENT
+============================================================
+
+Here are detailed step-by-step instructions for an LLM to fill in Excel responses based on the provided analysis:
+
+1. Reading and Understanding the Analysis
+
+Step 1: Familiarize yourself with the sheet structure
+- Identify the sheet name (Sheet1) and title (Business Continuity Assessment)
+- Note the total rows (39) and columns (11, A to K)
+- Recognize the main section (PART I - Applications) and its subsections (A to F)
+
+Step 2: Understand the header structure
+- Locate the general information area (Rows 3-5)
+- Identify the main table header (Row 11) and its column headings
+
+Step 3: Analyze the question structure
+- Note that there are 6 main sections (A to F) with specific questions
+- Understand that each section requires different response types (table or text)
+
+2. Placing Different Response Types
+
+Step 4: Fill in general information
+- Place the "Completed by" information in Row 3, Column D
+- If available, put "Updated by" information in Row 4, Column D
+- Enter the date in Row 5, Column D
+
+Step 5: Complete the application table (Rows 12-15)
+- Fill in details for each application across Columns C to K
+- Ensure each column contains the appropriate information type (e.g., Y/N for "Internally Developed")
+
+Step 6: Provide text responses for sections B to F
+- Enter the response for Section B in Row 21, Column C
+- Place the Section C response in Row 25, Column C
+- Input the Section D answer in Row 29, Column C
+- Add the Section E response to Row 33, Column C
+- Put the Section F response in Row 37, Column C (and Row 39, Column C if needed)
+
+3. Handling Hierarchical Questions
+
+Step 7: Maintain the hierarchical structure
+- Recognize that PART I - Applications is the main section
+- Treat sections A through F as subsections of PART I
+- Ensure responses align with their respective subsection questions
+
+4. Following Special Requirements
+
+Step 8: Address special instructions
+- Note the reference to another tab in Row 39, Column C
+- Mention the attached data security PDF when discussing Section E
+- Retain any pre-filled "N/A" responses where applicable
+
+5. Avoiding Common Pitfalls
+
+Step 9: Maintain data integrity
+- Do not invent information for "N/A" responses or references to external documents
+- Avoid overwriting pre-existing data in the sheet
+- Don't add information to cells not specified in the analysis
+
+Step 10: Ensure consistency
+- Keep responses consistent with information provided in the application table
+- Maintain a uniform style and level of detail across all text responses
+
+6. Best Practices for Response Formatting
+
+Step 11: Format text responses appropriately
+- Use clear, concise language in all text entries
+- Break long responses into bullet points or numbered lists for readability
+- Maintain a professional tone throughout the document
+
+Step 12: Format the application table correctly
+- Align text consistently within each column
+- Use appropriate capitalization and punctuation
+- Ensure all cells in the table are filled, using "N/A" if necessary
+
+Step 13: Double-check your work
+- Review all entries for accuracy and completeness
+- Ensure each question has been addressed in the appropriate location
+- Verify that all special instructions have been followed
+
+By following these steps, you'll be able to accurately fill in the Excel sheet based on the provided analysis, maintaining the structure and integrity of the document while providing comprehensive responses to all questions.
