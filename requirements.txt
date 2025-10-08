@@ -10,4 +10,4 @@ boto3
 langchain
 langchain-aws
 langfuse==2.60.10
-colornames
+pycolornames
