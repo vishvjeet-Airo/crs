@@ -165,8 +165,8 @@ def excel_to_table_text(file_path: str, historical: bool = True) -> str:
     Args:
         file_path (str): Path to Excel file.
         historical (bool): 
-            - True → only keep chosen values (ignore dropdown options).
-            - False → include dropdown options.
+            - True → only keep chosen values (ignore dropdown options), show colors for ALL cells
+            - False → include dropdown options, show colors only for empty cells
     
     Returns:
         str: Text representation including:
@@ -205,6 +205,7 @@ def excel_to_table_text(file_path: str, historical: bool = True) -> str:
             for cell in row:
                 # Get color information first
                 color_info = get_cell_color_info(cell)
+                # print(color_info)
                 
                 # Only include cells that have content OR are empty but colored
                 if cell.value is None and not cell.comment and not color_info:
@@ -236,9 +237,15 @@ def excel_to_table_text(file_path: str, historical: bool = True) -> str:
                 line = f"{cell.coordinate} = \"{cell.value}\"" if cell.value is not None else f"{cell.coordinate} = (empty)"
                 if dropdown_options:
                     line += f" (Options: {' | '.join(dropdown_options)})"
-                # Only show color for empty cells
-                if color_info and cell.value is None:
-                    line += f" ({color_info})"
+                # Show color based on historical mode
+                if color_info:
+                    if historical:
+                        # Historical mode: show colors for all cells
+                        line += f" ({color_info})"
+                    else:
+                        # Non-historical mode: only show colors for empty cells
+                        if cell.value is None:
+                            line += f" ({color_info})"
                 if cell.comment:
                     line += f" (Comment: {cell.comment.text.strip()})"
 
@@ -251,10 +258,10 @@ def excel_to_table_text(file_path: str, historical: bool = True) -> str:
 
 
 if __name__ == "__main__":
-    file_path = "complex_format_empty.xlsx"
+    file_path = "highlighted_example.xlsx"
     
     # Historical → ignore dropdown options, but include colors
-    text_output = excel_to_table_text(file_path, historical=False)
+    text_output = excel_to_table_text(file_path, historical=True)
     print(text_output)
 
     with open("processed_complex_format_empty.txt", "w", encoding="utf-8") as f:

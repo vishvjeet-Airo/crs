@@ -1,112 +1,408 @@
 [Sheet: Sheet1]
+Row 1
+A1 = "Type of Request (Select one)"
+Row 2
+A2 = "Product"
 Row 3
-B3 = "Completed by:"
-C3 = (empty) (color:Link Water)
-D3 = "Compass Group / Bon Appetit"
+A3 = "Managed IT Services"
 Row 4
-B4 = "Updated by:"
-C4 = (empty) (color:Link Water)
-D4 = (empty) (color:Yellow)
+A4 = "Professional IT Services"
 Row 5
-B5 = "Date:"
-C5 = (empty) (color:Link Water)
-D5 = "2024-10-30 00:00:00"
+A5 = "Product & Managed IT Services" (color:Yellow)
+Row 6
+A6 = "Product & Professional IT Services "
 Row 7
-A7 = "PART I - Applications"
+A7 = "Description Be specific. What is needed? Why is it needed? What systems and business processes are impacted?"
+Row 8
+A8 = "TaskUp: Extensive digital task-management tool that streamlines workflows and removes the need for paper and pen task reporting."
 Row 9
-B9 = "A)"
-C9 = "In the table below, please list the significant computer applications and the transaction classes impacted, identify the source of the software used (i.e., service organization, internally developed, or externally developed), and indicate whether the company has access to vendor source code. For vendor software packages, provide information such as the vendor or brand name, version, and significant customized features or modifications. Consider all facets of the entity’s financial information and financial drivers (i.e., all financial systems, payroll provider systems, operational systems that feed the financial system, etc.). "
+A9 = "Business Information"
+Row 10
+A10 = "Does this request have a project task #?"
 Row 11
-C11 = "Application"
-E11 = "Transaction Class Impacted"
-F11 = "Service Organization Name 
-(if applicable)"
-G11 = "Internally Developed
- (Y/N)"
-H11 = "Vendor/Brand
-Name and Version"
-I11 = "Custom Features
-(if any)"
-J11 = "Have Access to Source Code?"
-K11 = "Entities that use the application?"
+A11 = "Yes"
 Row 12
-C12 = (empty) (color:Magic Mint)
-E12 = (empty) (color:Magic Mint)
-F12 = (empty) (color:Magic Mint)
-G12 = (empty) (color:Magic Mint)
-H12 = (empty) (color:Magic Mint)
-I12 = (empty) (color:Magic Mint)
-J12 = (empty) (color:Magic Mint)
-K12 = (empty) (color:Magic Mint)
+A12 = "No" (color:Yellow)
 Row 13
-C13 = (empty) (color:Magic Mint)
-E13 = (empty) (color:Magic Mint)
-F13 = (empty) (color:Magic Mint)
-G13 = (empty) (color:Magic Mint)
-H13 = (empty) (color:Magic Mint)
-I13 = (empty) (color:Magic Mint)
-J13 = (empty) (color:Magic Mint)
-K13 = (empty) (color:Magic Mint)
+A13 = "Select the purpose for your request (Select one.)"
 Row 14
-C14 = (empty) (color:Magic Mint)
-E14 = (empty) (color:Magic Mint)
-F14 = (empty) (color:Magic Mint)
-G14 = (empty) (color:Magic Mint)
-H14 = (empty) (color:Magic Mint)
-I14 = (empty) (color:Magic Mint)
-J14 = (empty) (color:Magic Mint)
-K14 = (empty) (color:Magic Mint)
+A14 = "Onboard a new Third Party" (color:Yellow)
 Row 15
-C15 = (empty) (color:Magic Mint)
-E15 = (empty) (color:Magic Mint)
-F15 = (empty) (color:Magic Mint)
-G15 = (empty) (color:Magic Mint)
-H15 = (empty) (color:Magic Mint)
-I15 = (empty) (color:Magic Mint)
-J15 = (empty) (color:Magic Mint)
-K15 = (empty) (color:Magic Mint)
+A15 = "Reassess an existing Third Party"
 Row 16
-C16 = (empty) (color:Magic Mint)
-E16 = (empty) (color:Magic Mint)
-F16 = (empty) (color:Magic Mint)
-G16 = (empty) (color:Magic Mint)
-H16 = (empty) (color:Magic Mint)
-I16 = (empty) (color:Magic Mint)
-J16 = (empty) (color:Magic Mint)
-K16 = (empty) (color:Magic Mint)
+A16 = "Request for Proposal"
 Row 17
-C17 = (empty) (color:Magic Mint)
-E17 = (empty) (color:Magic Mint)
-F17 = (empty) (color:Magic Mint)
-G17 = (empty) (color:Magic Mint)
-H17 = (empty) (color:Magic Mint)
-I17 = (empty) (color:Magic Mint)
-J17 = (empty) (color:Magic Mint)
-K17 = (empty) (color:Magic Mint)
-Row 19
-B19 = "B)"
-C19 = "How is depreciation calculated and recorded for fixed assets? How are cash accounts reconciled? Are these processes performed through the use of automated systems/accounting software, or manual calculation using excel or other methods?"
+A17 = "Offboard with assessment"
+Row 18
+A18 = "Offboard without assessment "
+Row 20
+A20 = "What organization is this assessment for?"
 Row 21
-C21 = (empty) (color:Magic Mint)
+A21 = "Compass / TouchPoint"
+Row 22
+A22 = "What are the negative impacts without this request?"
 Row 23
-B23 = "C)"
-C23 = "If a service organization is used in a significant transaction class, describe how the service organization is used, along with your conclusion about whether it is necessary to obtain an understanding of the nature and significance of the services provided by the service organization and their effect on the user entity's system of internal control. If it is necessary, describe the sources of information used and procedures performed to obtain your understanding."
+A23 = "Currently not in place in Henry Ford of SE Ascension"
+Row 24
+A24 = "Priority of this Request (Select one.)"
 Row 25
-C25 = (empty) (color:Magic Mint)
+A25 = "Low - conceptual"
+Row 26
+A26 = "Medium Low - approved and planning or already implemented" (color:Yellow)
 Row 27
-B27 = "D)"
-C27 = "Identify significant entity-developed spreadsheets that are used for accounting functions or transaction processing. Document whether those spreadsheets are password protected and if there are logical controls built into the spreadsheets to protect their integrity (e.g., are input fields a different color so data is not entered into the wrong cells, and are cells with formulas locked so they cannot be changed without approval?)"
+A27 = "Medium High - will go into product in 30-60 days "
+Row 28
+A28 = "High - will go into production in less than 30 days "
 Row 29
-C29 = (empty) (color:Magic Mint)
+A29 = "Type of Assessment "
+Row 30
+A30 = "Does this request pertain to the following (Select the type that best describes this request)?"
 Row 31
-B31 = "E)"
-C31 = "Describe any other information relevant to understanding the entity's IT environment (for example, the computer hardware and configuration used for the accounting system such as networked personal computers with a dedicated server, any significant master files that are used to store data relevant to the audit or the entity's use of e-commerce or other sophisticated processing applications). "
+A31 = "Artificial Intelligence/Machine Learning"
+Row 32
+A32 = "Internet of Things (IoT)"
 Row 33
-C33 = (empty) (color:Magic Mint)
+A33 = "IRB [Research Study]"
+Row 34
+A34 = "Joint Venture (JV)"
 Row 35
-B35 = "F)"
-C35 = "List all individuals that have access to post to the general ledger, and whether or not each individual can post nonstandard journal entries.  Describe how the entity ensures that its IT systems (including any significant entity-developed spreadsheets) are reliable and its data is secure."
+A35 = "Laboratory"
+Row 36
+A36 = "Medical Devices "
 Row 37
-C37 = (empty) (color:Magic Mint)
+A37 = "Has the Third Party received any external certification(s)?"
+Row 38
+A38 = "Yes" (color:Yellow)
 Row 39
-C39 = "see next tab"
+A39 = "No"
+Row 40
+A40 = "If yes, please identify type of filing/certification or pending status and attach?" (color:Red)
+Row 41
+A41 = "SOC Report" (color:Yellow)
+Row 42
+A42 = "ISO"
+Row 43
+A43 = "HITRUST"
+Row 44
+A44 = "PCI"
+Row 45
+A45 = "Other certificate"
+Row 46
+A46 = "Third Party Information"
+Row 47
+A47 = "Third Party Company Name: Compass / TouchPoint"
+Row 49
+A49 = "Contact name: Morgan Fleck"
+Row 51
+A51 = "Contact email address: morgan.fleck@compass-usa.com"
+Row 53
+A53 = "Contact phone number: 810.263.1619"
+Row 55
+A55 = "How long has the Third Party provided services to the selected company in years?"
+Row 56
+A56 = "0-1 Years"
+Row 57
+A57 = "2-4 Years"
+Row 58
+A58 = "5-6 Years"
+Row 59
+A59 = "7+ Years - TouchPoint has provided services to Ascension for more than 7 years" (color:Yellow)
+Row 61
+A61 = "Will this Vendor/Third Party provide services for a Government Program Line of Business (i.e. Medicare, Medicaid, QHP, FEHB)?"
+Row 62
+A62 = "Yes"
+Row 63
+A63 = "No" (color:Yellow)
+Row 64
+A64 = "Will this Third Party conduct financial transactions on behalf of the organization with members, providers, or hospitals?"
+Row 65
+A65 = "Yes"
+Row 66
+A66 = "No  " (color:Yellow)
+Row 67
+A67 = "Industry"
+Row 68
+A68 = "Agriculture"
+Row 69
+A69 = "Apparel"
+Row 70
+A70 = "Banking"
+Row 71
+A71 = "Biotechnology"
+Row 72
+A72 = "Chemicals"
+Row 73
+A73 = "Communications"
+Row 74
+A74 = "Construction"
+Row 75
+A75 = "Education"
+Row 76
+A76 = "Electronics"
+Row 77
+A77 = "Energy"
+Row 78
+A78 = "Engineering"
+Row 79
+A79 = "Entertainment"
+Row 80
+A80 = "Environmental "
+Row 81
+A81 = "Finance"
+Row 82
+A82 = "Food & Beverage"
+Row 83
+A83 = "Government"
+Row 84
+A84 = "Healthcare" (color:Yellow)
+Row 85
+A85 = "Hospitality"
+Row 86
+A86 = "Insurance"
+Row 87
+A87 = "Machinery"
+Row 88
+A88 = "Manufacturing"
+Row 89
+A89 = "Media"
+Row 90
+A90 = "Not for Profit"
+Row 91
+A91 = "Recreation"
+Row 92
+A92 = "Retail "
+Row 93
+A93 = "Shipping"
+Row 94
+A94 = "Technology" (color:Yellow)
+Row 95
+A95 = "Telecommunications"
+Row 96
+A96 = "Transportation "
+Row 97
+A97 = "Utilities"
+Row 98
+A98 = "Other"
+Row 100
+A100 = "Type"
+Row 101
+A101 = "Software" (color:Yellow)
+Row 102
+A102 = "Consulting"
+Row 103
+A103 = "Hardware"
+Row 104
+A104 = "Service Outsourcing"
+Row 105
+A105 = "Staff Outsourcing"
+Row 106
+A106 = "Other"
+Row 108
+A108 = "Third Party Company URL"
+Row 109
+A109 = "https://www.iamtouchpoint.com/"
+Row 110
+A110 = "Enter the URL of the website(s) in scope for this assessment (e.g. https//customerportal.org and associated website extension)"
+Row 111
+A111 = "Dispatcher : https://dispatcher.taskup.healthcare-compass.com/
+Operator : https://operator.taskup.healthcare-compass.com/"
+Row 112
+A112 = "Does the website have patient/customer portal access? (e.g. intended for use by patients/families.) "
+Row 113
+A113 = "Yes"
+Row 114
+A114 = "No" (color:Yellow)
+Row 116
+A116 = "Subcontractor Contact"
+Row 117
+A117 = "Does this Third Party use/pay a Subcontractor to perform tasks on their behalf that is in scope for this assessment? "
+Row 118
+A118 = "Yes"
+Row 119
+A119 = "No" (color:Yellow)
+Row 120
+A120 = "Product/Service Information"
+Row 121
+A121 = "What is the Product/Service mean? "
+Row 122
+A122 = "TaskUp: Extensive digital task-management tool that streamlines workflows and removes the need for paper and pen task reporting."
+Row 123
+A123 = "Select Type: (Select all that apply)"
+Row 124
+A124 = "Medical Device"
+Row 125
+A125 = "Software/Hardware " (color:Yellow)
+Row 126
+A126 = "Web application" (color:Yellow)
+Row 127
+A127 = "Application Programming Interface (API)"
+Row 128
+A128 = "Mobile Application"
+Row 129
+A129 = "Artificial Intelligence/Machine Learning "
+Row 130
+A130 = "Open Source "
+Row 131
+A131 = "Custom Developed"
+Row 132
+A132 = "Services only [No product]"
+Row 133
+A133 = "Other "
+Row 135
+A135 = "Please select the tier that best describes the product/service:"
+Row 136
+A136 = "Vital"
+Row 137
+A137 = "Critical"
+Row 138
+A138 = "Important" (color:Yellow)
+Row 139
+A139 = "Deferred"
+Row 140
+A140 = "None of the above"
+Row 141
+A141 = "Does this product use, transmit, or store data?"
+Row 142
+A142 = "Yes" (color:Yellow)
+Row 143
+A143 = "No  "
+Row 144
+A144 = "Choose the data classification category:" (color:Red)
+Row 145
+A145 = "Sensitive: PHI, SSN, Credit Card Data, PII, Bank Account Information, etc. "
+Row 146
+A146 = "Confidential: Audit reports, payroll data, Provider contracts, member rates, financial status information, etc. "
+Row 147
+A147 = "Internal: Internal operating procedures, policies, training materials, project documents, etc. " (color:Yellow)
+Row 148
+A148 = "Public: Company brochures, already release press releases, product and services brochures, etc. "
+Row 149
+A149 = "No data shared with Third Party"
+Row 150
+A150 = "How will the Third Party access, process, transmit, disclose, store, retain data? (Select one.)"
+Row 151
+A151 = "Email"
+Row 152
+A152 = "Fax"
+Row 153
+A153 = "API Integration"
+Row 154
+A154 = "CD/DVD"
+Row 155
+A155 = "B2B VPN" (color:Yellow)
+Row 156
+A156 = "Vendor Portal"
+Row 157
+A157 = "SFTP"
+Row 158
+A158 = "Other method"
+Row 159
+A159 = "Provide a brief overview of how the Third Party will access, process, transmit, disclose, store, retain data (Attach data flow diagram if one exists). "
+Row 161
+A161 = "Does this product, service, or system involve the use of automated decision making (AI/ML)?"
+Row 162
+A162 = "Yes"
+Row 163
+A163 = "No" (color:Yellow)
+Row 164
+A164 = "Does this product, service, or system require system to system integration?"
+Row 165
+A165 = "Yes"
+Row 166
+A166 = "No - not a requirement, but integration is possible" (color:Yellow)
+Row 167
+A167 = "Is this a product replacement? "
+Row 168
+A168 = "Yes"
+Row 169
+A169 = "No"
+Row 171
+A171 = "Pre-scoping Questions for the Assessment"
+Row 172
+A172 = "What is the level of the data the Third Party will have access to? (Select all that apply.)"
+Row 173
+A173 = "Sensitive: PHI, SSN, Credit Card Data, PII, Bank Account Information, etc. "
+Row 174
+A174 = "Confidential: Audit reports, payroll data, Provider contracts, member rates, financial status information, etc. "
+Row 175
+A175 = "Internal: Internal operating procedures, policies, training materials, project documents, etc. " (color:Yellow)
+Row 176
+A176 = "Public: Company brochures, already release press releases, product and services brochures, etc. "
+Row 177
+A177 = "No data shared with Third Party"
+Row 178
+A178 = "Will any organization data be created, received, maintained, accessed, shared or transmitted outside of the United States" (color:Red)
+Row 179
+A179 = "Yes"
+Row 180
+A180 = "No" (color:Yellow)
+Row 181
+A181 = "Volume of data records (annually)?" (color:Red)
+Row 182
+A182 = "500+ records" (color:Yellow)
+Row 183
+A183 = "Between 50 and 499 records"
+Row 184
+A184 = "Less than 49 records"
+Row 185
+A185 = "0 records"
+Row 186
+A186 = "What format is the data in?" (color:Red)
+Row 187
+A187 = "Electronic" (color:Yellow)
+Row 188
+A188 = "Paper"
+Row 189
+A189 = "Both"
+Row 190
+A190 = "Will the Third Party require remote access?"
+Row 191
+A191 = "Yes"
+Row 192
+A192 = "No" (color:Yellow)
+Row 193
+A193 = "Will the Third Party have access to any of the following on the network (vendor or company owned?) (Select all that apply.)"
+Row 194
+A194 = "Product"
+Row 195
+A195 = "System - ipads connected to hospital wifi" (color:Yellow)
+Row 196
+A196 = "Services"
+Row 197
+A197 = "Non-Applicable"
+Row 198
+A198 = "Is the technology solution managed internally?"
+Row 199
+A199 = "Yes" (color:Yellow)
+Row 200
+A200 = "No"
+Row 201
+A201 = "If technology solution managed internally is (yes):" (color:Red)
+Row 202
+A202 = "Internally hosted, supported by Third Party (Services & Product Purchases) - TaskUp is Compass hosted, maintained, and supported." (color:Yellow)
+Row 203
+A203 = "Internally hosted, maintained and supported (Product Only)"
+Row 204
+A204 = "Will there be on site Third Party resources?"
+Row 205
+A205 = "Yes" (color:Yellow)
+Row 206
+A206 = "No"
+Row 207
+A207 = "Will the Third Party provide personnel, staff augmentation, or contracting services?"
+Row 208
+A208 = "Yes" (color:Yellow)
+Row 209
+A209 = "No"
+Row 210
+A210 = "Will the Third Party be using non-company devices to provide support?"
+Row 211
+A211 = "Yes - iPads can be Compass / TouchPoint or client procured" (color:Yellow)
+Row 212
+A212 = "No"
+Row 213
+A213 = "Will the Third Party deploy any vendor owned/managed equipment on company network? "
+Row 214
+A214 = "Yes - iPads can be Compass / TouchPoint or client procured" (color:Yellow)
+Row 215
+A215 = "No"

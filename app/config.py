@@ -11,7 +11,6 @@ class Settings(BaseSettings):
     # AWS Bedrock configuration
     aws_region: str = "us-east-1"
     bedrock_model_id: str = "anthropic.claude-3-5-sonnet-20240620-v1:0"
-    # bedrock_model_id: str = "openai.gpt-oss-120b-1:0"
     bedrock_embedding_model_id: str = "amazon.titan-embed-text-v1"
     
     # Langfuse configuration

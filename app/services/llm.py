@@ -118,7 +118,7 @@ def process_excel_to_story_by_batches(file_path: str, output_file: str = "story_
 
 
 if __name__ == "__main__":
-    file_path = "complex_format.xlsx"
+    file_path = "highlighted_example.xlsx"
     
     # Use the new batch-based processing
     story = process_excel_to_story_by_batches(file_path)

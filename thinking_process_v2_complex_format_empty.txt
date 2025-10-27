@@ -1,0 +1,119 @@
+=== QUESTION 1 ===
+Question: Completed by:
+Cell Location: C3
+Thinking Process:
+C3 = "Melanie Kessel"
+
+================================================================================
+
+=== QUESTION 2 ===
+Question: Updated by:
+Cell Location: D4
+Thinking Process:
+D4 = "Melanie Kessel"
+
+================================================================================
+
+=== QUESTION 3 ===
+Question: Date:
+Cell Location: C5
+Thinking Process:
+C5 = "2024-12-06 00:00:00"
+
+================================================================================
+
+=== QUESTION 4 ===
+Question: In the table below, please list the significant computer applications and the transaction classes impacted, identify the source of the software used (i.e., service organization, internally developed, or externally developed), and indicate whether the company has access to vendor source code. For vendor software packages, provide information such as the vendor or brand name, version, and significant customized features or modifications. Consider all facets of the entity's financial information and financial drivers (i.e., all financial systems, payroll provider systems, operational systems that feed the financial system, etc.).
+Cell Location: C12:K17
+Thinking Process:
+C12 = "Agilysys"
+E12 = "Restaurant transactions and payments"
+F12 = "Agilysys"
+G12 = "N"
+H12 = "Agilysys"
+I12 = "N/A"
+J12 = "N"
+K12 = "Bon Appetit"
+C13 = "TripleSeat"
+E13 = "Event planning"
+F13 = "N/A"
+G13 = "N"
+H13 = "TripleSeat"
+I13 = "N/A"
+J13 = "N"
+K13 = "Bon Appetit"
+C14 = "Authorize.Net"
+E14 = "Credit card payments for events"
+F14 = "N/A"
+G14 = "N"
+H14 = "Authorize.Net"
+I14 = "N/A"
+J14 = "N"
+K14 = "Bon Appetit"
+C15 = "Dining Website"
+E15 = "N/A"
+F15 = "N/A"
+G15 = "Y"
+H15 = "Squarespace"
+I15 = "N/A"
+J15 = "Y"
+K15 = "Bon Appetit"
+C16 = ""
+E16 = ""
+F16 = ""
+G16 = ""
+H16 = ""
+I16 = ""
+J16 = ""
+K16 = ""
+C17 = ""
+E17 = ""
+F17 = ""
+G17 = ""
+H17 = ""
+I17 = ""
+J17 = ""
+K17 = ""
+
+================================================================================
+
+=== QUESTION 5 ===
+Question: How is depreciation calculated and recorded for fixed assets? How are cash accounts reconciled? Are these processes performed through the use of automated systems/accounting software, or manual calculation using excel or other methods?
+Cell Location: C21
+Thinking Process:
+C21 = "Compass Group has indicated that questions about depreciation calculation, fixed asset recording, and cash account reconciliation are not applicable to their operations. The company relies on service providers for these functions. For more detailed information about Compass Group's IT environment and processes, refer to the attached data security PDF document."
+
+================================================================================
+
+=== QUESTION 6 ===
+Question: If a service organization is used in a significant transaction class, describe how the service organization is used, along with your conclusion about whether it is necessary to obtain an understanding of the nature and significance of the services provided by the service organization and their effect on the user entity's system of internal control. If it is necessary, describe the sources of information used and procedures performed to obtain your understanding.
+Cell Location: C25
+Thinking Process:
+C25 = "Compass Group uses external service organizations for payment processing in food services. These point-of-sale providers undergo annual PCI DSS validation by independent third parties. It is necessary to understand these services due to their significant impact on financial transactions. Understanding is obtained through the PCI DSS validation process, which includes inquiries into secure software development practices, data integrity, and data validation measures."
+
+================================================================================
+
+=== QUESTION 7 ===
+Question: Identify significant entity-developed spreadsheets that are used for accounting functions or transaction processing. Document whether those spreadsheets are password protected and if there are logical controls built into the spreadsheets to protect their integrity (e.g., are input fields a different color so data is not entered into the wrong cells, and are cells with formulas locked so they cannot be changed without approval?)
+Cell Location: C29
+Thinking Process:
+C29 = "Compass Group does not utilize any entity-developed spreadsheets for accounting functions or transaction processing. This eliminates risks associated with spreadsheet-based financial operations and aligns with best practices in financial management and data integrity."
+
+================================================================================
+
+=== QUESTION 8 ===
+Question: Describe any other information relevant to understanding the entity's IT environment (for example, the computer hardware and configuration used for the accounting system such as networked personal computers with a dedicated server, any significant master files that are used to store data relevant to the audit or the entity's use of e-commerce or other sophisticated processing applications).
+Cell Location: C33
+Thinking Process:
+C33 = "Compass Group maintains a comprehensive IT environment critical for operations and accounting. Specific details about computer hardware, configurations, master files, and e-commerce applications are contained in an attached data security PDF document. This document provides in-depth information on the company's IT infrastructure, including network architecture, server configurations, and data storage solutions."
+
+================================================================================
+
+=== QUESTION 9 ===
+Question: List all individuals that have access to post to the general ledger, and whether or not each individual can post nonstandard journal entries.  Describe how the entity ensures that its IT systems (including any significant entity-developed spreadsheets) are reliable and its data is secure.
+Cell Location: C37
+Thinking Process:
+C37 = "Compass Group maintains strict control over access to its general ledger, but specific details about individual access rights are not available. Questions about access to post to the general ledger are not applicable to their operations. Compass Group employs IT systems and controls to ensure the reliability of its financial data and the security of its information. For comprehensive details on IT systems reliability and data security measures, please refer to the attached data security PDF document."
+
+================================================================================
+
